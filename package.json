@@ -2,13 +2,14 @@
   "name": "tunes-api",
   "version": "1.0.0",
   "description": "API for Tunes",
-  "main": "tunes-api.js",
+  "homepage": "https://thomasmcevoy.github.io/tunes-api",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Thomas McEvoy",
   "license": "ISC",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "koa": "^2.6.2"
   }
 }
