@@ -1,0 +1,14 @@
+{
+  "name": "tunes-api",
+  "version": "1.0.0",
+  "description": "API for Tunes",
+  "main": "tunes-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas McEvoy",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
