@@ -9,6 +9,6 @@
   "author": "Thomas McEvoy",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.3.0"
+    "koa": "^2.6.2"
   }
 }
