@@ -19,7 +19,8 @@
   {
     "title": "A Flower is a Lovesome Thing",
     "composer": "Billy Strayhorn",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "A Foggy Day (in London Town)",
@@ -153,7 +154,8 @@
   {
     "title": "All Too Soon",
     "composer": "Duke Ellington/Carl Sigman",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "Almost Like Being in Love",
@@ -163,7 +165,8 @@
   {
     "title": "Alone Together",
     "composer": "Arthur Schwartz/Howard Dietz",
-    "year": 1932
+    "year": 1932,
+    "minor": true
   },
   {
     "title": "Alone Too Long",
@@ -198,7 +201,8 @@
   {
     "title": "Angel Face",
     "composer": "Hank Jones",
-    "year": 1947
+    "year": 1947,
+    "ballad": true
   },
   {
     "title": "Angels We Have Heard on High",
@@ -250,17 +254,20 @@
   {
     "title": "Ask Me Now",
     "composer": "Thelonious Monk",
-    "year": 1951
+    "year": 1951,
+    "ballad": true
   },
   {
     "title": "Au Privave",
     "composer": "Charlie Parker",
-    "year": 1951
+    "year": 1951,
+    "blues": true
   },
   {
     "title": "Autumn in New York",
     "composer": "Vernon Duke",
-    "year": 1934
+    "year": 1934,
+    "ballad": true
   },
   {
     "title": "Autumn Leaves",
@@ -407,12 +414,14 @@
   {
     "title": "Bleecker Street Theme",
     "composer": "Cedar Walton",
-    "year": 1973
+    "year": 1973,
+    "blues": true
   },
   {
     "title": "Blood Count",
     "composer": "Billy Strayhorn",
-    "year": 1967
+    "year": 1967,
+    "ballad": true
   },
   {
     "title": "Blue 'n' Boogie",
@@ -428,7 +437,8 @@
   {
     "title": "Blue Bossa",
     "composer": "Kenny Dorham",
-    "year": 1963
+    "year": 1963,
+    "latin": true
   },
   {
     "title": "Blue Daniel",
@@ -439,7 +449,8 @@
   {
     "title": "Blue in Green",
     "composer": "Bill Evans",
-    "year": 1959
+    "year": 1959,
+    "ballad": true
   },
   {
     "title": "Blue Lou",
@@ -470,7 +481,8 @@
   {
     "title": "Blues for Alice",
     "composer": "Charlie Parker",
-    "year": 1951
+    "year": 1951,
+    "blues": true
   },
   {
     "title": "Blues in the Night",
@@ -499,7 +511,8 @@
   {
     "title": "Body and Soul",
     "composer": "Johnny Green/Edward Heyman, Robert Sour, Frank Eyton",
-    "year": 1930
+    "year": 1930,
+    "ballad": true
   },
   {
     "title": "Boo Boo's Birthday",
@@ -534,7 +547,8 @@
   {
     "title": "But Beautiful",
     "composer": "Jimmy Van Heusen/Johnny Burke",
-    "year": 1947
+    "year": 1947,
+    "ballad": true
   },
   {
     "title": "But Not For Me",
@@ -619,12 +633,14 @@
   {
     "title": "Central Park West",
     "composer": "John Coltrane",
-    "year": 1960
+    "year": 1960,
+    "ballad": true
   },
   {
     "title": "Ceora",
     "composer": "Lee Morgan",
-    "year": 1965
+    "year": 1965,
+    "latin": true
   },
   {
     "title": "Chasin' the Bird",
@@ -646,7 +662,8 @@
   {
     "title": "Chelsea Bridge",
     "composer": "Billy Strayhorn",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Cherokee",
@@ -657,12 +674,14 @@
     "title": "Christmas Time is Here",
     "composer": "Vince Guaraldi/Lee Mendelson",
     "year": 1965,
-    "holiday": true
+    "holiday": true,
+    "waltz": true
   },
   {
     "title": "Close Your Eyes",
     "composer": "Bernice Petkere",
-    "year": 1933
+    "year": 1933,
+    "minor": true
   },
   {
     "title": "Cocktails for Two",
@@ -677,7 +696,8 @@
   {
     "title": "Come Sunday",
     "composer": "Duke Ellington",
-    "year": 1943
+    "year": 1943,
+    "ballad": true
   },
   {
     "title": "Coming on the Hudson",
@@ -773,7 +793,8 @@
   {
     "title": "Darn That Dream",
     "composer": "Jimmy Van Heusen/Eddie De Lange",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "Day By Day",
@@ -783,7 +804,8 @@
   {
     "title": "Day Dream",
     "composer": "Billy Strayhorn & Duke Ellington/John La Touche",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Day In, Day Out",
@@ -814,7 +836,8 @@
   {
     "title": "Deep in a Dream",
     "composer": "Jimmy Van Heusen/Eddie De Lange",
-    "year": 1938
+    "year": 1938,
+    "ballad": true
   },
   {
     "title": "Delfeayo's Dilemma",
@@ -872,12 +895,14 @@
   {
     "title": "Don't Blame Me",
     "composer": "Jimmy McHugh/Dorothy Fields",
-    "year": 1932
+    "year": 1932,
+    "ballad": true
   },
   {
     "title": "Don't Explain",
     "composer": "Billie Holiday/Arthur Herzog, Jr.",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "Don't Get Around Much Anymore (Never No Lament)",
@@ -928,7 +953,8 @@
   {
     "title": "Easy Living",
     "composer": "Ralph Rainger/Leo Robin",
-    "year": 1937
+    "year": 1937,
+    "ballad": true
   },
   {
     "title": "Easy to Love",
@@ -944,7 +970,8 @@
   {
     "title": "Embraceable You",
     "composer": "George Gershwin/Ira Gershwin",
-    "year": 1930
+    "year": 1930,
+    "ballad": true
   },
   {
     "title": "Emily",
@@ -965,7 +992,8 @@
   {
     "title": "Ev'ry Time We Say Goodbye",
     "composer": "Cole Porter",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "Ev'rything I Love",
@@ -990,7 +1018,8 @@
   {
     "title": "Evidence",
     "composer": "Thelonious Monk",
-    "year": 1948
+    "year": 1948,
+    "contrafact": true
   },
   {
     "title": "Exactly Like You",
