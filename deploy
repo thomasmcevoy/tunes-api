@@ -6,6 +6,8 @@ echo "Deploying API with the following commit message:"
 echo "'$1'"
 echo "--------------------------------------------------------------------------------"
 
+cp tunes.json ./dist/index.json
+
 git add .
 git commit -m "$1"
 git push
