@@ -9,7 +9,7 @@
     "composer": "Thad Jones/Alec Wilder",
     "year": 1969,
     "waltz": true,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "A Fine Romance",
@@ -98,7 +98,8 @@
     "title": "All Blues",
     "composer": "Miles Davis",
     "year": 1959,
-    "waltz": true
+    "waltz": true,
+    "blues": true
   },
   {
     "title": "All God's Chillun Got Rhythm",
@@ -109,12 +110,13 @@
     "title": "All I Want for Christmas is You",
     "composer": "Walter Afanasieff & Mariah Carey",
     "year": 1994,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "All My Tomorrows",
     "composer": "Jimmy Van Heusen/Sammy Cahn",
-    "year": 1959
+    "year": 1959,
+    "ballad": true
   },
   {
     "title": "All of Me",
@@ -139,7 +141,9 @@
   {
     "title": "All the Way",
     "composer": "Jimmy Van Heusen/Sammy Cahn",
-    "year": 1957
+    "year": 1957,
+    "ballad": true,
+    "sinatra": true
   },
   {
     "title": "All Through the Night",
@@ -200,13 +204,13 @@
     "title": "Angels We Have Heard on High",
     "composer": "James Chadwick",
     "year": 1862,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Anthropology (Thriving on a Riff)",
     "composer": "Charlie Parker & Dizzy Gillespie",
     "year": 1945,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Anything Goes",
@@ -232,6 +236,11 @@
     "title": "As Time Goes By",
     "composer": "Herman Hupfeld",
     "year": 1926
+  },
+  {
+    "title": "Ascension",
+    "composer": "Barry Harris",
+    "year": 1960
   },
   {
     "title": "Ask Me Now",
@@ -273,19 +282,19 @@
     "title": "Away in a Manger",
     "composer": "James R. Murray",
     "year": 1887,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Baby, It's Cold Outside",
     "composer": "Frank Loesser",
     "year": 1944,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Bags' Groove",
     "composer": "Milt Jackson",
     "year": 1954,
-    "type": "blues"
+    "blues": true
   },
   {
     "title": "Bali Ha'i",
@@ -349,14 +358,14 @@
     "title": "Billie's Bounce",
     "composer": "Charlie Parker",
     "year": 1945,
-    "type": "blues"
+    "blues": true
   },
   {
     "title": "Birks Works",
     "composer": "Dizzy Gillespie",
     "year": 1957,
-    "form": "blues",
-    "tonality": "minor"
+    "blues": true,
+    "minor": true
   },
   {
     "title": "Bish Bash Bosh",
@@ -372,7 +381,7 @@
     "title": "Black and Tan Fantasy",
     "composer": "Duke Ellington & Bubber Miley",
     "year": 1927,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Black Beauty",
@@ -398,7 +407,7 @@
     "title": "Blue 'n' Boogie",
     "composer": "Dizzy Gillespie & Frank Paparelli",
     "year": 1945,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Blue and Sentimental",
@@ -430,7 +439,7 @@
     "title": "Blue Monk",
     "composer": "Thelonious Monk",
     "year": 1954,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Blue Moon",
@@ -456,19 +465,19 @@
     "title": "Blues in the Night",
     "composer": "Harold Arlen/Johnny Mercer",
     "year": 1941,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Blues on Purpose",
     "composer": "Rudy Stevenson",
     "year": 1965,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Blues March",
     "composer": "Benny Golson",
     "year": 1958,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Bluesette",
@@ -540,13 +549,13 @@
     "title": "C Jam Blues (Duke's Place)",
     "composer": "Duke Ellington",
     "year": 1940,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "C.T.A.",
     "composer": "Jimmy Heath",
     "year": 1959,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Calcutta Cutie",
@@ -584,7 +593,7 @@
     "title": "Carol of the Bells",
     "composer": "Mykola Leontovych/Peter J. Wilhousky",
     "year": 1904,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Carolina Shout",
@@ -631,7 +640,7 @@
     "title": "Christmas Time is Here",
     "composer": "Vince Guaraldi/Lee Mendelson",
     "year": 1965,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Close Your Eyes",
@@ -683,7 +692,7 @@
     "title": "Cotton Tail",
     "composer": "Duke Ellington",
     "year": 1940,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Count Your Blessings (Instead of Sheep)",
@@ -694,7 +703,7 @@
     "title": "Crazeology",
     "composer": "Charlie Parker",
     "year": 1947,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Crazy He Calls Me",
@@ -726,7 +735,7 @@
     "title": "Dance of the Infidels",
     "composer": "Bud Powell",
     "year": 1949,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Dancing in the Dark",
@@ -767,7 +776,7 @@
     "title": "Dear Old Stockholm",
     "composer": "Swedish folk song",
     "year": 1846,
-    "artist": "miles"
+    "miles": true
   },
   {
     "title": "Dearly Beloved",
@@ -810,7 +819,7 @@
     "title": "Dizzy Atmosphere",
     "composer": "Dizzy Gillespie",
     "year": 1945,
-    "type": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Django",
@@ -861,7 +870,7 @@
     "title": "Donna Lee",
     "composer": "Miles Davis",
     "year": 1947,
-    "type": "contrafact"
+    "contrafact": true
   },
   {
     "title": "Doxy",
@@ -979,7 +988,7 @@
     "title": "Feliz Navidad",
     "composer": "Jose Feliciano",
     "year": 1970,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Fine and Dandy",
@@ -990,29 +999,33 @@
     "title": "Fine and Mellow",
     "composer": "Billie Holiday",
     "year": 1940,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Five Spot After Dark",
     "composer": "Benny Golson",
-    "year": 1959
+    "year": 1959,
+    "minor": true,
+    "blues": true
   },
   {
     "title": "Flamingo",
     "composer": "Ted Grouya & Edmund Anderson",
     "year": 1940,
-    "latin": true
+    "latin": true,
+    "ballad": true
   },
   {
     "title": "Fleurette Africaine (African Flower)",
     "composer": "Duke Ellington",
-    "year": 1952
+    "year": 1952,
+    "ballad": true
   },
   {
     "title": "Fly Me to the Moon (In Other Words)",
     "composer": "Bart Howard",
     "year": 1954,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "Flying Down to Rio",
@@ -1027,17 +1040,20 @@
   {
     "title": "For All We Know",
     "composer": "J. Fred Coots",
-    "year": 1934
+    "year": 1934,
+    "ballad": true
   },
   {
     "title": "For Heaven's Sake",
     "composer": "Elise Bretton/Donald Meyer & Sherman Edwards",
-    "year": 1946
+    "year": 1946,
+    "ballad": true
   },
   {
     "title": "For Wee Folks",
     "composer": "Wynton Marsalis",
-    "year": 1985
+    "year": 1985,
+    "ballad": true
   },
   {
     "title": "For You, For Me, For Evermore",
@@ -1057,7 +1073,8 @@
   {
     "title": "Freddie Freeloader",
     "composer": "Miles Davis",
-    "year": 1959
+    "year": 1959,
+    "blues": true
   },
   {
     "title": "Frenesi",
@@ -1079,7 +1096,7 @@
     "title": "Frosty the Snowman",
     "composer": "Walter Rollins & Steve Nelson",
     "year": 1950,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Gee Baby, Ain't I Good to You",
@@ -1125,7 +1142,7 @@
     "title": "Go Tell It on the Mountain",
     "composer": "John Wesley Work, Jr.",
     "year": 1865,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "God Bless the Child",
@@ -1141,17 +1158,19 @@
     "title": "Good Bait",
     "composer": "Tadd Dameron & Count Basie",
     "year": 1944,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Good Morning Heartache",
     "composer": "Ervin Drake, Dan Fisher, Irene Higgenbotham",
-    "year": 1945
+    "year": 1945,
+    "ballad": true
   },
   {
     "title": "Goodbye",
     "composer": "Gordon Jenkins",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "Grand Central",
@@ -1171,12 +1190,14 @@
   {
     "title": "Guess I'll Hang My Tears Out To Dry",
     "composer": "Jule Styne/Sammy Cahn",
-    "year": 1945
+    "year": 1945,
+    "ballad": true
   },
   {
     "title": "Hackensack",
     "composer": "Thelonious Monk",
-    "year": 1954
+    "year": 1954,
+    "contrafact": true
   },
   {
     "title": "Hallucinations (Budo)",
@@ -1192,7 +1213,7 @@
     "title": "Happy Holiday",
     "composer": "Irving Berlin",
     "year": 1941,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Happy Talk",
@@ -1213,7 +1234,7 @@
     "title": "Have Yourself a Merry Little Christmas",
     "composer": "Hugh Martin/Ralph Blane",
     "year": 1943,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Heart and Soul",
@@ -1223,7 +1244,8 @@
   {
     "title": "Heartaches",
     "composer": "Al Hoffman/John Klenner",
-    "year": 1931
+    "year": 1931,
+    "latin": true
   },
   {
     "title": "Heat Wave",
@@ -1239,7 +1261,7 @@
     "title": "Here Comes Santa Claus",
     "composer": "Gene Autrey/Oakley Haldeman",
     "year": 1947,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Here I'll Stay",
@@ -1310,7 +1332,8 @@
   {
     "title": "How Long Has This Been Going On?",
     "composer": "George Gershwin/Ira Gershwin",
-    "year": 1928
+    "year": 1928,
+    "ballad": true
   },
   {
     "title": "How My Heart Sings!",
@@ -1331,7 +1354,8 @@
   {
     "title": "I Can't Get Started (with You)",
     "composer": "Vernon Duke/Ira Gershwin",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "I Can't Give You Anything But Love",
@@ -1352,7 +1376,7 @@
     "title": "I Could Write a Book",
     "composer": "Richard Rodgers/Lorenz Hart",
     "year": 1940,
-    "artist": "miles"
+    "miles": true
   },
   {
     "title": "I Cover the Waterfront",
@@ -1367,7 +1391,8 @@
   {
     "title": "I Didn't Know About You",
     "composer": "Duke Ellington/Bob Russell",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "I Didn't Know What Time It Was",
@@ -1377,19 +1402,21 @@
   {
     "title": "I Don't Stand a Ghost of a Chance With You",
     "composer": "Victor Young/Ned Washington & Bing Crosby",
-    "year": 1932
+    "year": 1932,
+    "ballad": true
   },
   {
     "title": "I Fall in Love Too Easily",
     "composer": "Jule Stein/Sammy Cahn",
     "year": 1944,
-    "artist": "miles"
+    "miles": true,
+    "ballad": true
   },
   {
     "title": "I Get a Kick out of You",
     "composer": "Cole Porter",
     "year": 1934,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "I Get Along Without You Very Well (Except Sometimes)",
@@ -1404,7 +1431,8 @@
   {
     "title": "I Got It Bad (And That Ain't Good)",
     "composer": "Duke Ellington/Paul Francis Webster",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "I Got Rhythm",
@@ -1510,7 +1538,7 @@
     "title": "I Saw Mommy Kissing Santa Claus",
     "composer": "Tommie Connor",
     "year": 1952,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "I See Your Face Before Me",
@@ -1540,7 +1568,8 @@
   {
     "title": "I Want to Talk About You",
     "composer": "Billy Eckstine",
-    "year": 1946
+    "year": 1946,
+    "ballad": true
   },
   {
     "title": "I Was Doing All Right",
@@ -1556,7 +1585,7 @@
     "title": "I Wish You Love",
     "composer": "Charles Louis Trenet/Albert Askew Beach",
     "year": 1946,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "I Wished on the Moon",
@@ -1571,24 +1600,27 @@
   {
     "title": "I'll Be Around",
     "composer": "Alec Wilder",
-    "year": 1942
+    "year": 1942,
+    "ballad": true
   },
   {
     "title": "I'll Be Home for Christmas",
     "composer": "Walter Kent/Kim Gannon",
     "year": 1943,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "I'll Be Seeing You",
     "composer": "Sammy Fain/Irving Kahal",
     "year": 1938,
-    "artist": "sinatra"
+    "sinatra": true,
+    "ballad": true
   },
   {
     "title": "I'll Keep Loving You",
     "composer": "Bud Powell",
-    "year": 1949
+    "year": 1949,
+    "ballad": true
   },
   {
     "title": "I'll Never Be the Same",
@@ -1618,7 +1650,8 @@
   {
     "title": "I'm a Fool to Want You",
     "composer": "Joel S. Herron, Frank Sinatra, Jack Wolf",
-    "year": 1951
+    "year": 1951,
+    "ballad": true
   },
   {
     "title": "I'm an Old Cowhand",
@@ -1679,24 +1712,25 @@
     "title": "I've Got My Love to Keep Me Warm",
     "composer": "Irving Berlin",
     "year": 1937,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "I've Got the World On a String",
     "composer": "Harold Arlen/Ted Koehler",
     "year": 1932,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "I've Got You Under My Skin",
     "composer": "Cole Porter",
     "year": 1936,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "I've Grown Accustomed to Her Face",
     "composer": "Frederick Loewe/Alan Jay Lerner",
-    "year": 1956
+    "year": 1956,
+    "ballad": true
   },
   {
     "title": "I've Heard That Song Before",
@@ -1742,7 +1776,7 @@
     "title": "If I Were a Bell",
     "composer": "Frank Loesser",
     "year": 1950,
-    "artist": "miles"
+    "miles": true
   },
   {
     "title": "If There Is Someone Lovelier Than You",
@@ -1757,7 +1791,8 @@
   {
     "title": "If You Could See Me Now",
     "composer": "Tadd Dameron/Carl Sigman",
-    "year": 1946
+    "year": 1946,
+    "ballad": true
   },
   {
     "title": "If You Never Come to Me",
@@ -1773,12 +1808,14 @@
   {
     "title": "Imagination",
     "composer": "Jimmy Van Heusen/Johnny Burke",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "Impressions",
     "composer": "John Coltrane",
-    "year": 1961
+    "year": 1961,
+    "minor": true
   },
   {
     "title": "In a Mellow Tone",
@@ -1788,18 +1825,20 @@
   {
     "title": "In a Sentimental Mood",
     "composer": "Duke Ellington/Manny Kurtz",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "In the Chapel in the Moonlight",
     "composer": "Billy Hill",
-    "year": 1936
+    "year": 1936,
+    "ballad": true
   },
   {
     "title": "In the Land of Oo-Bla-Dee",
     "composer": "Mary Lou Williams",
     "year": 1945,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "In the Still of the Night",
@@ -1844,7 +1883,8 @@
   {
     "title": "Isfahan",
     "composer": "Billy Strayhorn & Duke Ellington",
-    "year": 1965
+    "year": 1965,
+    "ballad": true
   },
   {
     "title": "Isn't It a Pity?",
@@ -1889,7 +1929,8 @@
   {
     "title": "It Never Entered My Mind",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "It's a Sin to Tell a Lie",
@@ -1910,7 +1951,7 @@
     "title": "It's Beginning to Look a Lot Like Christmas",
     "composer": "Meredith Willson",
     "year": 1951,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "It's De-Lovely",
@@ -1920,7 +1961,8 @@
   {
     "title": "It's Easy to Remember",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "It's Only a Paper Moon",
@@ -1931,7 +1973,7 @@
     "title": "It's the Most Wonderful Time of the Year",
     "composer": "Edward Pola & George Wyle",
     "year": 1963,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "It's the Talk of the Town",
@@ -1962,7 +2004,7 @@
     "title": "Jingle Bells (One Horse Open Sleigh)",
     "composer": "James Lord Pierpont",
     "year": 1857,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Jinrikisha",
@@ -1982,7 +2024,8 @@
   {
     "title": "Just a Gigolo",
     "composer": "Irving Caesar & Leonello Casucci/Julius Brammer",
-    "year": 1929
+    "year": 1929,
+    "ballad": true
   },
   {
     "title": "Just A-Sittin' and A-Rockin'",
@@ -2008,7 +2051,7 @@
     "title": "Just In Time",
     "composer": "Jule Styne/Betty Comden & Adolph Green",
     "year": 1956,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "Just One of Those Things",
@@ -2039,7 +2082,7 @@
     "title": "L-O-V-E",
     "composer": "Bert Kaempfert/Milt Gabler",
     "year": 1964,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "La Mesha",
@@ -2058,13 +2101,15 @@
   },
   {
     "title": "Lament",
-    "composer": "J. J. Johnson",
-    "year": 1954
+    "composer": "J.J. Johnson",
+    "year": 1954,
+    "ballad": true
   },
   {
     "title": "Last Night When We Were Young",
     "composer": "Harold Arlen/Yip Harburg",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "Laura",
@@ -2074,7 +2119,8 @@
   {
     "title": "Laverne Walk",
     "composer": "Oscar Pettiford",
-    "year": 1959
+    "year": 1959,
+    "rhythm": true
   },
   {
     "title": "Lazy Afternoon",
@@ -2095,13 +2141,13 @@
     "title": "Lester Leaps In",
     "composer": "Lester Young",
     "year": 1940,
-    "type": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Let It Snow! Let It Snow! Let It Snow!",
     "composer": "Jule Styne/Sammy Cahn",
     "year": 1945,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Let's Call the Whole Thing Off",
@@ -2193,7 +2239,8 @@
   {
     "title": "Lonely Woman",
     "composer": "Horace Silver",
-    "year": 1963
+    "year": 1963,
+    "ballad": true
   },
   {
     "title": "Long Ago (and Far Away)",
@@ -2245,7 +2292,7 @@
     "title": "Love You Madly",
     "composer": "Duke Ellington",
     "year": 1950,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Lover",
@@ -2260,7 +2307,8 @@
   {
     "title": "Lover Man (Oh, Where Can You Be?)",
     "composer": "Jimmy Davis, Ram Ramirez, James Sherman",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Lucky To Be Me",
@@ -2285,7 +2333,8 @@
   {
     "title": "Lush Life",
     "composer": "Billy Strayhorn",
-    "year": 1936
+    "year": 1936,
+    "ballad": true
   },
   {
     "title": "Mack the Knife (Moritat)",
@@ -2342,7 +2391,8 @@
   {
     "title": "Melancholia",
     "composer": "Duke Ellington",
-    "year": 1953
+    "year": 1953,
+    "ballad": true
   },
   {
     "title": "Memories of You",
@@ -2372,12 +2422,14 @@
   {
     "title": "Minor Mishap",
     "composer": "Tommy Flanagan",
-    "year": 1957
+    "year": 1957,
+    "minor": true
   },
   {
     "title": "Minority",
     "composer": "Gigi Gryce",
-    "year": 1953
+    "year": 1953,
+    "minor": true
   },
   {
     "title": "Miss Brown to You",
@@ -2388,12 +2440,13 @@
     "title": "Misterioso",
     "composer": "Thelonious Monk",
     "year": 1948,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Misty",
     "composer": "Erroll Garner/Johnny Burke",
-    "year": 1954
+    "year": 1954,
+    "ballad": true
   },
   {
     "title": "Moanin'",
@@ -2423,12 +2476,14 @@
   {
     "title": "Monk's Mood",
     "composer": "Thelonious Monk",
-    "year": 1947
+    "year": 1947,
+    "ballad": true
   },
   {
     "title": "Mood Indigo",
     "composer": "Duke Ellington & Barney Bigard",
-    "year": 1930
+    "year": 1930,
+    "ballad": true
   },
   {
     "title": "Moon Ray",
@@ -2438,7 +2493,8 @@
   {
     "title": "Moon River",
     "composer": "Henry Mancini/Johnny Mercer",
-    "year": 1961
+    "year": 1961,
+    "waltz": true
   },
   {
     "title": "Moonglow",
@@ -2453,7 +2509,8 @@
   {
     "title": "Moonlight in Vermont",
     "composer": "Karl Suessdorf/John M. Blackburn",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "More Than You Know",
@@ -2479,8 +2536,8 @@
     "title": "Mr. P.C.",
     "composer": "John Coltrane",
     "year": 1959,
-    "form": "blues",
-    "tonality": "minor"
+    "blues": true,
+    "minor": true
   },
   {
     "title": "My Baby Just Cares for Me",
@@ -2506,12 +2563,14 @@
   {
     "title": "My Foolish Heart",
     "composer": "Victor Young/Ned Washington",
-    "year": 1949
+    "year": 1949,
+    "ballad": true
   },
   {
     "title": "My Funny Valentine",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1937
+    "year": 1937,
+    "ballad": true
   },
   {
     "title": "My Heart Belongs to Daddy",
@@ -2531,12 +2590,14 @@
   {
     "title": "My Little Brown Book",
     "composer": "Billy Strayhorn",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "My Man's Gone Now",
     "composer": "George Gershwin/Ira Gershwin & DuBose Heyward",
-    "year": 1934
+    "year": 1934,
+    "ballad": true
   },
   {
     "title": "My Melancholy Baby",
@@ -2546,7 +2607,8 @@
   {
     "title": "My Old Flame",
     "composer": "Arthur Johnson/Sam Coslow",
-    "year": 1934
+    "year": 1934,
+    "ballad": true
   },
   {
     "title": "My One and Only (What Am I Gonna Do?)",
@@ -2556,12 +2618,14 @@
   {
     "title": "My One and Only Love",
     "composer": "Guy Wood, Robert Mellin",
-    "year": 1952
+    "year": 1952,
+    "ballad": true
   },
   {
     "title": "My Romance",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "My Shining Hour",
@@ -2571,7 +2635,8 @@
   {
     "title": "My Ship",
     "composer": "Kurt Weill/Ira Gershwin",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Naima",
@@ -2586,7 +2651,8 @@
   {
     "title": "Nancy (with the Laughing Face)",
     "composer": "Jimmy Van Heusen/Phil Silvers",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "Nardis",
@@ -2654,30 +2720,32 @@
   {
     "title": "No More",
     "composer": "Toots Camarata/Bob Russell",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "Nutty",
     "composer": "Thelonious Monk",
-    "year": 1954
+    "year": 1954,
+    "rhythm": true
   },
   {
     "title": "O Christmas Tree (O Tannenbaum)",
     "composer": "Ernst Anschutz",
     "year": 1824,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "O Come, All ye Faithful (Adeste Fidelis)",
     "composer": "John Francis Wade",
     "year": 1751,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "O Holy Night",
     "composer": "Adolphe Adam",
     "year": 1847,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Oblivion",
@@ -2687,7 +2755,8 @@
   {
     "title": "Off Minor",
     "composer": "Thelonious Monk",
-    "year": 1947
+    "year": 1947,
+    "minor": true
   },
   {
     "title": "Oh, Lady Be Good!",
@@ -2707,14 +2776,15 @@
   {
     "title": "Old Folks",
     "composer": "Willard Robison/Dedette Lee Hill",
-    "year": 1938
+    "year": 1938,
+    "ballad": true
   },
   {
     "title": "Oleo",
     "composer": "Sonny Rollins",
     "year": 1954,
-    "form": "rhythm",
-    "artist": "miles"
+    "rhythm": true,
+    "miles": true
   },
   {
     "title": "On A Clear Day (You Can See Forever)",
@@ -2724,13 +2794,15 @@
   {
     "title": "On A Misty Night",
     "composer": "Tadd Dameron",
-    "year": 1956
+    "year": 1956,
+    "contrafact": true
   },
   {
     "title": "On Green Dolphin Street",
     "composer": "Bronislaw Kaper/Ned Washington",
     "year": 1947,
-    "artist": "miles"
+    "miles": true,
+    "latin": true
   },
   {
     "title": "On Stage",
@@ -2762,7 +2834,7 @@
     "title": "One for My Baby (and One More for the Road)",
     "composer": "Harold Arlen/Johnny Mercer",
     "year": 1943,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "One Note Samba",
@@ -2773,7 +2845,8 @@
   {
     "title": "One O'clock Jump",
     "composer": "Count Basie",
-    "year": 1937
+    "year": 1937,
+    "blues": true
   },
   {
     "title": "Only Trust Your Heart",
@@ -2804,12 +2877,14 @@
   {
     "title": "Over the Rainbow",
     "composer": "Harold Arlen/Yip Harburg",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "Pannonica",
     "composer": "Thelonious Monk",
-    "year": 1956
+    "year": 1956,
+    "ballad": true
   },
   {
     "title": "Parisian Thoroughfare",
@@ -2819,7 +2894,8 @@
   {
     "title": "Passion Flower",
     "composer": "Billy Strayhorn",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "Pennies from Heaven",
@@ -2877,7 +2953,8 @@
   {
     "title": "Polka Dots and Moonbeams",
     "composer": "Jimmy Van Heusen/Johnny Burke",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "Poor Butterfly",
@@ -2887,7 +2964,8 @@
   {
     "title": "Prelude to a Kiss",
     "composer": "Duke Ellington/Irving Gordon & Irving Mills",
-    "year": 1938
+    "year": 1938,
+    "ballad": true
   },
   {
     "title": "Punjab",
@@ -2897,7 +2975,8 @@
   {
     "title": "Quasimodo",
     "composer": "Charlie Parker",
-    "year": 1946
+    "year": 1946,
+    "contrafact": true
   },
   {
     "title": "Que Sera Sera",
@@ -2918,12 +2997,19 @@
   {
     "title": "Reflections",
     "composer": "Thelonious Monk",
-    "year": 1952
+    "year": 1952,
+    "ballad": true
   },
   {
     "title": "Reflections in D",
     "composer": "Duke Ellington",
-    "year": 1953
+    "year": 1953,
+    "ballad": true
+  },
+  {
+    "title": "Reets and I",
+    "composer": "Bennie Harris",
+    "year": 1955
   },
   {
     "title": "Remember",
@@ -2939,13 +3025,14 @@
   {
     "title": "Retrospection",
     "composer": "Duke Ellington",
-    "year": 1953
+    "year": 1953,
+    "ballad": true
   },
   {
     "title": "Rhythm-a-ning",
     "composer": "Thelonious Monk",
     "year": 1957,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Robbins Nest",
@@ -2980,18 +3067,20 @@
   {
     "title": "Round Midnight",
     "composer": "Thelonious Monk & Cootie Williams",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "Ruby, My Dear",
     "composer": "Thelonious Monk",
-    "year": 1947
+    "year": 1947,
+    "ballad": true
   },
   {
     "title": "Rudolph the Red-Nosed Reindeer",
     "composer": "Johnny Marks",
     "year": 1949,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Russian Lullaby",
@@ -3006,7 +3095,8 @@
   {
     "title": "Saint Louis Blues",
     "composer": "W. C. Handy",
-    "year": 1914
+    "year": 1914,
+    "blues": true
   },
   {
     "title": "Salt Peanuts",
@@ -3017,13 +3107,13 @@
     "title": "Santa Baby",
     "composer": "Joan Javits & Philip Springer",
     "year": 1953,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Santa Claus is Coming to Town",
     "composer": "J. Fred Coots/Haven Gillespie",
     "year": 1934,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Satin Doll",
@@ -3033,13 +3123,14 @@
   {
     "title": "Say It (Over and Over Again)",
     "composer": "Jimmy McHugh/Frank Loesser",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "Scrapple from the Apple",
     "composer": "Charlie Parker",
     "year": 1947,
-    "type": "contrafact"
+    "contrafact": true
   },
   {
     "title": "Secret Love",
@@ -3049,7 +3140,8 @@
   {
     "title": "Send in the Clowns",
     "composer": "Stephen Sondheim",
-    "year": 1973
+    "year": 1973,
+    "ballad": true
   },
   {
     "title": "September in the Rain",
@@ -3070,7 +3162,7 @@
     "title": "Seven Steps to Heaven",
     "composer": "Victor Feldman",
     "year": 1963,
-    "artist": "miles"
+    "miles": true
   },
   {
     "title": "Shangri-La",
@@ -3095,19 +3187,20 @@
   {
     "title": "Short Story",
     "composer": "Kenny Dorham",
-    "year": 1963
+    "year": 1963,
+    "minor": true
   },
   {
     "title": "Silent Night",
     "composer": "Franz Xavier Gruber/Joseph Mohr",
     "year": 1818,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Silver Bells",
     "composer": "Jay Livingston/Ray Evans",
     "year": 1950,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Simone",
@@ -3123,13 +3216,14 @@
   {
     "title": "Skylark",
     "composer": "Hoagy Carmichael/Johnny Mercer",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Sleigh Ride",
     "composer": "Leroy Anderson/Mitchell Parish",
     "year": 1948,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Slow Boat to China",
@@ -3139,7 +3233,8 @@
   {
     "title": "Smoke Gets in Your Eyes",
     "composer": "Jerome Kern/Otto Harbach",
-    "year": 1933
+    "year": 1933,
+    "ballad": true
   },
   {
     "title": "Só Danço Samba",
@@ -3155,38 +3250,45 @@
   {
     "title": "So Sorry Please",
     "composer": "Bud Powell",
-    "year": 1950
+    "year": 1950,
+    "rhythm": true
   },
   {
     "title": "So What",
     "composer": "Miles Davis",
-    "year": 1959
+    "year": 1959,
+    "minor": true
   },
   {
     "title": "Soft Winds",
     "composer": "Benny Goodman/Fred Royal",
     "year": 1940,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Softly As in a Morning Sunrise",
     "composer": "Sigmund Romberg/Oscar Hammerstein II",
-    "year": 1928
+    "year": 1928,
+    "minor": true
   },
   {
     "title": "Solar",
     "composer": "Miles Davis",
-    "year": 1954
+    "year": 1954,
+    "blues": true,
+    "minor": true
   },
   {
     "title": "Solitude",
     "composer": "Duke Ellington/Eddie De Lange & Irving Mills",
-    "year": 1934
+    "year": 1934,
+    "ballad": true
   },
   {
     "title": "Some Other Spring",
     "composer": "Irene Kitchings/Arthur Herzog, Jr.",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "Somebody Loves Me",
@@ -3202,17 +3304,20 @@
   {
     "title": "Someone To Watch Over Me",
     "composer": "George Gershwin/Ira Gershwin",
-    "year": 1926
+    "year": 1926,
+    "ballad": true
   },
   {
     "title": "Something to Live For",
     "composer": "Billy Strayhorn & Duke Ellington",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "Something Wonderful",
     "composer": "Richard Rodgers/Oscar Hammerstein II",
-    "year": 1951
+    "year": 1951,
+    "ballad": true
   },
   {
     "title": "Sometimes I'm Happy",
@@ -3232,17 +3337,20 @@
   {
     "title": "Sophisticated Lady",
     "composer": "Duke Ellington/Irving Mills & Mitchell Parish",
-    "year": 1933
+    "year": 1933,
+    "ballad": true
   },
   {
     "title": "Soul Eyes",
     "composer": "Mal Waldron",
-    "year": 1957
+    "year": 1957,
+    "ballad": true
   },
   {
     "title": "Soultrane",
     "composer": "Tadd Dameron",
-    "year": 1956
+    "year": 1956,
+    "ballad": true
   },
   {
     "title": "Speak Low",
@@ -3278,7 +3386,8 @@
   {
     "title": "Stairway to the Stars (Park Avenue Fantasy)",
     "composer": "Matt Malneck & Frank Signorelli/Mitchell Parish",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "Star Eyes",
@@ -3289,25 +3398,28 @@
   {
     "title": "Stardust",
     "composer": "Hoagy Carmichael/Mitchell Parish",
-    "year": 1927
+    "year": 1927,
+    "ballad": true
   },
   {
     "title": "Stars Fell on Alabama",
     "composer": "Frank S. Perkins/Mitchell Parish",
-    "year": 1934
+    "year": 1934,
+    "ballad": true
   },
   {
     "title": "Stella By Starlight",
     "composer": "Victor Young/Ned Washington",
     "year": 1946,
-    "artist": "miles"
+    "miles": true,
+    "ballad": true
   },
   {
     "title": "Stolen Moments",
     "composer": "Oliver Nelson",
     "year": 1961,
-    "form": "blues",
-    "tonality": "minor"
+    "blues": true,
+    "minor": true
   },
   {
     "title": "Stompin' at the Savoy",
@@ -3323,7 +3435,7 @@
     "title": "Straight, No Chaser",
     "composer": "Thelonious Monk",
     "year": 1951,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Straight Street",
@@ -3389,7 +3501,7 @@
     "title": "Swinging 'til the Girls Come Home",
     "composer": "Oscar Pettiford",
     "year": 1951,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Take the \"A\" Train",
@@ -3454,7 +3566,8 @@
   {
     "title": "That's All",
     "composer": "Bob Haymes & Alan Brandt",
-    "year": 1952
+    "year": 1952,
+    "ballad": true
   },
   {
     "title": "The Best Is Yet to Come",
@@ -3487,19 +3600,19 @@
     "title": "The Chipmunk Song (Christmas Don't Be Late)",
     "composer": "David Seville",
     "year": 1958,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "The Christmas Song",
     "composer": "Bob Wells & Mel Torme",
     "year": 1945,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "The Christmas Waltz",
     "composer": "Jule Styne/Sammy Cahn",
     "year": 1954,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "The End of a Love Affair",
@@ -3515,7 +3628,7 @@
     "title": "The First Noel",
     "composer": "William B. Sandys & Davies Gilbert",
     "year": 1823,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "The Froof (The Fruit)",
@@ -3570,7 +3683,7 @@
     "title": "The Little Drummer Boy",
     "composer": "Katherine Kennicott Davis",
     "year": 1941,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "The Man I Love",
@@ -3586,8 +3699,8 @@
     "title": "The Mooche",
     "composer": "Duke Ellington/Irving Mills",
     "year": 1929,
-    "form": "blues",
-    "tonality": "minor"
+    "blues": true,
+    "minor": true
   },
   {
     "title": "The More I See You",
@@ -3603,8 +3716,8 @@
     "title": "The Natives are Restless Tonight",
     "composer": "Horace Silver",
     "year": 1964,
-    "form": "blues",
-    "tonality": "minor"
+    "blues": true,
+    "minor": true
   },
   {
     "title": "The Nearness of You",
@@ -3624,18 +3737,20 @@
   {
     "title": "The Peacocks",
     "composer": "Jimmy Rowles",
-    "year": 1975
+    "year": 1975,
+    "minor": true
   },
   {
     "title": "The Pendulum at Falcon's Lair",
     "composer": "Oscar Pettiford",
     "year": 1953,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "The Plain But the Simple Truth",
     "composer": "Oscar Pettiford",
-    "year": 1959
+    "year": 1959,
+    "blues": true
   },
   {
     "title": "The Ruby and the Pearl",
@@ -3666,7 +3781,8 @@
   {
     "title": "The Single Petal of a Rose",
     "composer": "Duke Ellington",
-    "year": 1959
+    "year": 1959,
+    "ballad": true
   },
   {
     "title": "The Song Is You",
@@ -3681,7 +3797,8 @@
   {
     "title": "The Star-Crossed Lovers",
     "composer": "Billy Strayhorn & Duke Ellington",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "The Surrey with the Fringe on Top",
@@ -3696,7 +3813,8 @@
   {
     "title": "The Thrill is Gone",
     "composer": "Ray Henderson/Lew Brown",
-    "year": 1931
+    "year": 1931,
+    "ballad": true
   },
   {
     "title": "The Touch of Your Lips",
@@ -3706,18 +3824,20 @@
   {
     "title": "The Very Thought of You",
     "composer": "Ray Noble",
-    "year": 1934
+    "year": 1934,
+    "ballad": true
   },
   {
     "title": "The Way You Look Tonight",
     "composer": "Jerome Kern/Dorothy Fields",
     "year": 1936,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "Thelonious",
     "composer": "Thelonious Monk",
-    "year": 1947
+    "year": 1947,
+    "rhythm": true
   },
   {
     "title": "Them There Eyes",
@@ -3727,7 +3847,8 @@
   {
     "title": "Theme for Ernie",
     "composer": "Fred Lacey",
-    "year": 1958
+    "year": 1958,
+    "ballad": true
   },
   {
     "title": "Then I'll Be Tired of You",
@@ -3778,7 +3899,7 @@
     "title": "This Christmas",
     "composer": "Donny Hathaway",
     "year": 1971,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "They Say It's Wonderful",
@@ -3789,7 +3910,7 @@
     "title": "Things Ain't What They Used to Be",
     "composer": "Mercer Ellington/Ted Persons",
     "year": 1942,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "This Can't Be Love",
@@ -3804,7 +3925,8 @@
   {
     "title": "This Is Always",
     "composer": "Harry Warren/Mack Gordon",
-    "year": 1946
+    "year": 1946,
+    "ballad": true
   },
   {
     "title": "This Is New",
@@ -3863,9 +3985,16 @@
     "latin": true
   },
   {
+    "title": "To Walter Davis Jr. With Love",
+    "composer": "Barry Harris",
+    "year": 1996,
+    "ballad": true
+  },
+  {
     "title": "Too Late Now",
     "composer": "Burton Lane/Alan Jay Lerner",
-    "year": 1950
+    "year": 1950,
+    "ballad": true
   },
   {
     "title": "Too Marvelous for Words",
@@ -3875,7 +4004,8 @@
   {
     "title": "Too Young to Go Steady",
     "composer": "Jimmy McHugh/Harold Adamson",
-    "year": 1955
+    "year": 1955,
+    "ballad": true
   },
   {
     "title": "Topsy",
@@ -3885,7 +4015,8 @@
   {
     "title": "Travelin' Light",
     "composer": "James R. Mundy/Johnny Mercer",
-    "year": 1943
+    "year": 1943,
+    "ballad": true
   },
   {
     "title": "Trinkle Tinkle",
@@ -3901,7 +4032,8 @@
   {
     "title": "Two Bass Hit",
     "composer": "John Lewis & Dizzy Gillespie",
-    "year": 1947
+    "year": 1947,
+    "blues": true
   },
   {
     "title": "Two for the Road",
@@ -3927,7 +4059,8 @@
   {
     "title": "Un Poco Loco",
     "composer": "Bud Powell",
-    "year": 1951
+    "year": 1951,
+    "latin": true
   },
   {
     "title": "Undecided",
@@ -3937,7 +4070,8 @@
   {
     "title": "Until the Real Thing Comes Along",
     "composer": "Mann Holiner, Alberta Nichols, Saul Chapin/Sammy Cahn",
-    "year": 1936
+    "year": 1936,
+    "ballad": true
   },
   {
     "title": "Up Jumped Spring",
@@ -3959,7 +4093,8 @@
   {
     "title": "Violets For Your Furs",
     "composer": "Matt Dennis/Tom Adair",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Wabash",
@@ -3970,13 +4105,13 @@
     "title": "Wail",
     "composer": "Bud Powell",
     "year": 1949,
-    "form": "rhythm"
+    "rhythm": true
   },
   {
     "title": "Walkin'",
     "composer": "Richard Carpenter",
     "year": 1949,
-    "type": "blues"
+    "blues": true
   },
   {
     "title": "Waltz for Debbie",
@@ -3987,7 +4122,8 @@
   {
     "title": "Warm Valley",
     "composer": "Duke Ellington/Bob Russell",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "Wave",
@@ -4007,9 +4143,9 @@
   },
   {
     "title": "Wee Dot",
-    "composer": "J. J. Johnson",
+    "composer": "J.J. Johnson",
     "year": 1947,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "Well You Needn't",
@@ -4021,7 +4157,7 @@
     "composer": "Wes Montgomery",
     "year": 1960,
     "waltz": true,
-    "form": "blues"
+    "blues": true
   },
   {
     "title": "What Am I Here For?",
@@ -4031,7 +4167,8 @@
   {
     "title": "What Is There to Say?",
     "composer": "Vernon Duke/Yip Harburg",
-    "year": 1933
+    "year": 1933,
+    "ballad": true
   },
   {
     "title": "What Is This Thing Called Love?",
@@ -4051,23 +4188,26 @@
   {
     "title": "When I Fall In Love",
     "composer": "Victor Young/Edward Heyman",
-    "year": 1952
+    "year": 1952,
+    "ballad": true
   },
   {
     "title": "When It's Sleepy Time Down South",
     "composer": "Clarence Muse, Leon T. Rene & Otis J. Rene, Jr.",
-    "year": 1931
+    "year": 1931,
+    "ballad": true
   },
   {
     "title": "When Lights Are Low",
     "composer": "Benny Carter/Spencer Williams",
     "year": 1936,
-    "artist": "miles"
+    "miles": true
   },
   {
     "title": "When You Wish Upon a Star",
     "composer": "Leigh Harline/Ned Washington",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "When You're Smiling",
@@ -4082,7 +4222,8 @@
   {
     "title": "Where Are You?",
     "composer": "Jimmy McHugh/Harold Adamson",
-    "year": 1937
+    "year": 1937,
+    "ballad": true
   },
   {
     "title": "Where Or When",
@@ -4108,7 +4249,7 @@
     "title": "White Christmas",
     "composer": "Irving Berlin",
     "year": 1940,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Who Can I Turn To (When Nobody Needs Me)?",
@@ -4165,18 +4306,19 @@
     "title": "Winter Wonderland",
     "composer": "Felix Bernard/Richard B. Smith",
     "year": 1934,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "Wise One",
     "composer": "John Coltrane",
-    "year": 1964
+    "year": 1964,
+    "ballad": true
   },
   {
     "title": "Witchcraft",
     "composer": "Cy Coleman/Carolyn Leigh",
     "year": 1957,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "With a Song in My Heart",
@@ -4192,7 +4334,7 @@
     "title": "Woody 'n' You (Algo Bueno)",
     "composer": "Dizzy Gillespie",
     "year": 1943,
-    "artist": "miles"
+    "miles": true
   },
   {
     "title": "Would You Like to Take a Walk",
@@ -4242,18 +4384,20 @@
   {
     "title": "You Don't Know What Love Is",
     "composer": "Gene De Paul/Don Raye",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "You Go to My Head",
     "composer": "J. Fred Coots/Haven Gillespie",
-    "year": 1938
+    "year": 1938,
+    "ballad": true
   },
   {
     "title": "You Make Me Feel So Young",
     "composer": "Josef Myrow/Mack Gordon",
     "year": 1946,
-    "artist": "sinatra"
+    "sinatra": true
   },
   {
     "title": "You Say You Care",
@@ -4279,7 +4423,7 @@
     "title": "You're a Mean One, Mr. Grinch",
     "composer": "Albert Hague",
     "year": 1966,
-    "type": "holiday"
+    "holiday": true
   },
   {
     "title": "You're Blasé",
@@ -4295,22 +4439,26 @@
     "title": "You're My Everything",
     "composer": "Harry Warren & Joseph Young/Mort Dixon",
     "year": 1931,
-    "artist": "miles"
+    "miles": true,
+    "ballad": true
   },
   {
     "title": "You're My Thrill",
     "composer": "Jay Gorney/Sidney Clare",
-    "year": 1933
+    "year": 1933,
+    "ballad": true
   },
   {
     "title": "You've Changed",
     "composer": "Carl Fischer/William Carey",
-    "year": 1942
+    "year": 1942,
+    "ballad": true
   },
   {
     "title": "Young and Foolish",
     "composer": "Albert Hague/Arnold B. Horwitt",
-    "year": 1954
+    "year": 1954,
+    "ballad": true
   },
   {
     "title": "Yours is My Heart Alone",
