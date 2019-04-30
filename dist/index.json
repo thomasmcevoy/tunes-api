@@ -228,6 +228,11 @@
     "year": 1958
   },
   {
+    "title": "Around the Corner",
+    "composer": "Barry Harris",
+    "year": 1962
+  },
+  {
     "title": "As Long As I Live",
     "composer": "Harold Arlen/Ted Koehler",
     "year": 1934
@@ -392,6 +397,12 @@
     "title": "Black Codes",
     "composer": "Wynton Marsalis",
     "year": 1985
+  },
+  {
+    "title": "Blame It On My Youth",
+    "composer": "Oscar Levant & Edward Heyman",
+    "year": 1947,
+    "ballad": true
   },
   {
     "title": "Bleecker Street Theme",
@@ -614,6 +625,12 @@
     "title": "Ceora",
     "composer": "Lee Morgan",
     "year": 1965
+  },
+  {
+    "title": "Chasin' the Bird",
+    "composer": "Charlie Parker",
+    "year": 1947,
+    "rhythm": true
   },
   {
     "title": "Cheek To Cheek",
@@ -1628,6 +1645,11 @@
     "year": 1932
   },
   {
+    "title": "I'll Never Smile Again",
+    "composer": "Ruth Lowe",
+    "year": 1940
+  },
+  {
     "title": "I'll Remember April",
     "composer": "Gene De Paul/Don Raye & Patricia Johnston",
     "year": 1941
@@ -2360,6 +2382,12 @@
     "title": "Makin' Whoopee",
     "composer": "Walter Donaldson/Gus Kahn",
     "year": 1928
+  },
+  {
+    "title": "Mambo Inn",
+    "composer": "Mario Bauzá, Grace Sampson, Bobby Woodlen",
+    "year": 1953,
+    "latin": true
   },
   {
     "title": "Manhã de Carnaval (Black Orpheus)",
@@ -3173,6 +3201,11 @@
     "title": "Shaw Nuff",
     "composer": "Charlie Parker & Dizzy Gillespie",
     "year": 1945
+  },
+  {
+    "title": "She",
+    "composer": "George Shearing",
+    "year": 1957
   },
   {
     "title": "She's Funny That Way",
