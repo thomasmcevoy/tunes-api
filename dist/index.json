@@ -876,7 +876,7 @@
   },
   {
     "title": "Crazeology",
-    "composer": "Charlie Parker",
+    "composer": "Benny Harris",
     "year": 1947,
     "rhythm": true
   },
@@ -2153,6 +2153,12 @@
     "ballad": true
   },
   {
+    "title": "In Love in Vain",
+    "composer": "Jerome Kern/Leo Robin",
+    "year": 1956,
+    "ballad": true
+  },
+  {
     "title": "In the Chapel in the Moonlight",
     "composer": "Billy Hill",
     "year": 1936,
@@ -3363,7 +3369,7 @@
   },
   {
     "title": "Ornithology",
-    "composer": "Charlie Parker",
+    "composer": "Benny Harris",
     "year": 1945,
     "contrafact": true
   },
@@ -3556,7 +3562,7 @@
   },
   {
     "title": "Reets and I",
-    "composer": "Bennie Harris",
+    "composer": "Benny Harris",
     "year": 1955,
     "contrafact": true
   },
@@ -4407,6 +4413,12 @@
     "waltz": true
   },
   {
+    "title": "The Intimacy of the Blues",
+    "composer": "Billy Strayhorn",
+    "year": 1967,
+    "blues": true
+  },
+  {
     "title": "The Jitterbug Waltz",
     "composer": "Fats Waller",
     "year": 1942,
@@ -4635,6 +4647,12 @@
     "title": "There Will Never Be Another You",
     "composer": "Harry Warren/Mack Gordon",
     "year": 1942
+  },
+  {
+    "title": "There's a Lull in My Life",
+    "composer": "Mack Gordon & Harry Revel",
+    "year": 1937,
+    "ballad": true
   },
   {
     "title": "There's a Small Hotel",
@@ -4868,6 +4886,11 @@
     "ballad": true
   },
   {
+    "title": "Tune Up",
+    "composer": "Miles Davis",
+    "year": 1956
+  },
+  {
     "title": "Two Bass Hit",
     "composer": "John Lewis & Dizzy Gillespie",
     "year": 1947,
@@ -4950,6 +4973,12 @@
     "title": "Wabash",
     "composer": "Cannonball Adderley",
     "year": 1959
+  },
+  {
+    "title": "Wahoo",
+    "composer": "Benny Harris",
+    "year": 1945,
+    "contrafact": true
   },
   {
     "title": "Wail",
