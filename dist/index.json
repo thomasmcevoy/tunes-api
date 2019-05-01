@@ -1515,6 +1515,12 @@
     "year": 1996
   },
   {
+    "title": "Hittin' the Jug",
+    "composer": "Gene Ammons",
+    "year": 1960,
+    "blues": true
+  },
+  {
     "title": "Honeysuckle Rose",
     "composer": "Fats Waller/Andy Razaf",
     "year": 1929
@@ -2263,6 +2269,11 @@
     "year": 1960
   },
   {
+    "title": "Jet Stream",
+    "composer": "Peter Bernstein",
+    "year": 1995
+  },
+  {
     "title": "Jingle Bells (One Horse Open Sleigh)",
     "composer": "James Lord Pierpont",
     "year": 1857,
@@ -2533,6 +2544,11 @@
     "year": 1929
   },
   {
+    "title": "Loads of Love",
+    "composer": "Richard Rodgers",
+    "year": 1962
+  },
+  {
     "title": "Lolita",
     "composer": "Barry Harris",
     "year": 1960
@@ -2781,6 +2797,11 @@
     "title": "Moanin'",
     "composer": "Bobby Timmons",
     "year": 1958
+  },
+  {
+    "title": "Modinha",
+    "composer": "Antonio Carlos Jobim",
+    "year": 1959
   },
   {
     "title": "Mohawk",
@@ -4504,6 +4525,11 @@
     "holiday": true
   },
   {
+    "title": "This Could Be the Start of Something (Big)",
+    "composer": "Steve Allan",
+    "year": 1956
+  },
+  {
     "title": "They Say It's Wonderful",
     "composer": "Irving Berlin",
     "year": 1946
@@ -4670,6 +4696,12 @@
     "composer": "Antonio Carlos Jobim",
     "year": 1967,
     "latin": true
+  },
+  {
+    "title": "Trouble is a Man",
+    "composer": "Alec Wilder",
+    "year": 1944,
+    "ballad":true
   },
   {
     "title": "Two Bass Hit",
@@ -4991,10 +5023,20 @@
     "year": 1929
   },
   {
+    "title": "Wives and Lovers",
+    "composer": "Burt Bacharach & Hal David",
+    "year": 1963
+  },
+  {
     "title": "Woody'n You (Algo Bueno)",
     "composer": "Dizzy Gillespie",
     "year": 1943,
     "miles": true
+  },
+  {
+    "title": "Work",
+    "composer": "Thelonious Monk",
+    "year": 1954
   },
   {
     "title": "Would You Like to Take a Walk",
