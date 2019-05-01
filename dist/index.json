@@ -65,6 +65,11 @@
     "year": 1966
   },
   {
+    "title": "A Time to Smile",
+    "composer": "Freddie Redd",
+    "year": 1959
+  },
+  {
     "title": "A Weaver of Dreams",
     "composer": "Victor Young/John Elliot",
     "year": 1951
@@ -574,6 +579,11 @@
     "ballad": true
   },
   {
+    "title": "Boperation",
+    "composer": "Tadd Dameron",
+    "year": 1948
+  },
+  {
     "title": "Boo Boo's Birthday",
     "composer": "Thelonious Monk",
     "year": 1967
@@ -689,6 +699,12 @@
     "title": "Carolina Shout",
     "composer": "James P. Johnson",
     "year": 1921
+  },
+  {
+    "title": "Casbah",
+    "composer": "Tadd Dameron",
+    "year": 1948,
+    "latin": true
   },
   {
     "title": "Celia",
@@ -855,6 +871,11 @@
     "title": "Curtain Call",
     "composer": "Barry Harris",
     "year": 1960
+  },
+  {
+    "title": "Dameronia",
+    "composer": "Tadd Dameron",
+    "year": 1947
   },
   {
     "title": "Dance Cadaverous",
@@ -1026,6 +1047,11 @@
     "contrafact": true
   },
   {
+    "title": "Double Talk",
+    "composer": "Tadd Dameron",
+    "year": 1948
+  },
+  {
     "title": "Doxy",
     "composer": "Sonny Rollins",
     "year": 1954
@@ -1126,6 +1152,11 @@
     "year": 1933
   },
   {
+    "title": "Everything's Coming Up Roses",
+    "composer": "Jule Styne/Stephen Sondheim",
+    "year": 1959
+  },
+  {
     "title": "Evidence",
     "composer": "Thelonious Monk",
     "year": 1948,
@@ -1184,6 +1215,12 @@
     "ballad": true
   },
   {
+    "title": "Flossie Lou",
+    "composer": "Tadd Dameron",
+    "year": 1956,
+    "latin": true
+  },
+  {
     "title": "Fly Me to the Moon (In Other Words)",
     "composer": "Bart Howard",
     "year": 1954,
@@ -1193,6 +1230,11 @@
     "title": "Flying Down to Rio",
     "composer": "Vincent Youmans/Edward Eliscu & Gus Kahn",
     "year": 1933
+  },
+  {
+    "title": "Focus",
+    "composer": "Tadd Dameron",
+    "year": 1948
   },
   {
     "title": "Fools Rush In (Where Angels Fear to Tread)",
@@ -1419,6 +1461,12 @@
     "title": "Heat Wave",
     "composer": "Irving Berlin",
     "year": 1933
+  },
+  {
+    "title": "Heaven's Doors Are Open Wide",
+    "composer": "Tadd Dameron",
+    "year": 1948,
+    "ballad": true
   },
   {
     "title": "Hello, Young Lovers",
@@ -1729,9 +1777,20 @@
     "year": 1931
   },
   {
+    "title": "I Think I'll Go Away",
+    "composer": "Tadd Dameron",
+    "year": 1948,
+    "ballad": true
+  },
+  {
     "title": "I Thought About You",
     "composer": "Jimmy Van Heusen/Johnny Mercer",
     "year": 1939
+  },
+  {
+    "title": "I Waited For You",
+    "composer": "Dizzy Gillespie/Gil Fuller",
+    "year": 1946
   },
   {
     "title": "I Want to Be Happy",
@@ -2059,6 +2118,11 @@
     "year": 1952
   },
   {
+    "title": "Is That All There Is?",
+    "composer": "Jerry Lieber & Mike Stoller",
+    "year": 1969
+  },
+  {
     "title": "Is You Is Or Is You Ain't My Baby?",
     "composer": "Louis Jordan",
     "year": 1943
@@ -2193,6 +2257,11 @@
     "title": "Jinrikisha",
     "composer": "Joe Henderson",
     "year": 1963
+  },
+  {
+    "title": "John's Delight",
+    "composer": "Tadd Dameron",
+    "year": 1948
   },
   {
     "title": "Jordu",
@@ -2788,6 +2857,11 @@
     "title": "Move",
     "composer": "Denzil Best",
     "year": 1949
+  },
+  {
+    "title": "Mr. Lucky",
+    "composer": "Henry Mancini",
+    "year": 1960
   },
   {
     "title": "Mr. P.C.",
@@ -3705,6 +3779,12 @@
     "year": 1925
   },
   {
+    "title": "Somewhere in the Night",
+    "composer": "Richard Kerr/Will Jennings",
+    "year": 1975,
+    "ballad": true
+  },
+  {
     "title": "Song for my Father",
     "composer": "Horace Silver",
     "year": 1964
@@ -4018,6 +4098,12 @@
     "latin": true
   },
   {
+    "title": "The Chase",
+    "composer": "Tadd Dameron",
+    "year": 1947,
+    "rhythm": true
+  },
+  {
     "title": "The Chipmunk Song (Christmas Don't Be Late)",
     "composer": "David Seville",
     "year": 1958,
@@ -4123,6 +4209,12 @@
     "year": 1938
   },
   {
+    "title": "The Meaning of the Blues",
+    "composer": "Bobby Troup/Leah Worth",
+    "year": 1957,
+    "miles": true
+  },
+  {
     "title": "The Mooche",
     "composer": "Duke Ellington/Irving Mills",
     "year": 1929,
@@ -4185,6 +4277,11 @@
     "year": 1952
   },
   {
+    "title": "The Scene is Clean",
+    "composer": "Tadd Dameron",
+    "year": 1956
+  },
+  {
     "title": "The Second Time Around",
     "composer": "Jimmy Van Heusen/Sammy Cahn",
     "year": 1960
@@ -4215,6 +4312,12 @@
     "title": "The Song Is You",
     "composer": "Jerome Kern/Oscar Hammerstein II",
     "year": 1932
+  },
+  {
+    "title": "The Squirrel",
+    "composer": "Tadd Dameron",
+    "year": 1947,
+    "blues": true
   },
   {
     "title": "The St. Vitus Dance",
