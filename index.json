@@ -18,6 +18,12 @@
     "holiday": true
   },
   {
+    "title": "A Felicidade",
+    "composer": "Antônio Carlos Jobim/Vincius Morales",
+    "year": 1959,
+    "latin": true
+  },
+  {
     "title": "A Fine Romance",
     "composer": "Jerome Kern/Dorothy Fields",
     "year": 1936
@@ -436,6 +442,12 @@
     "contrafact": true
   },
   {
+    "title": "Bird Song",
+    "composer": "Thad Jones",
+    "year": 1957,
+    "rhythm": true
+  },
+  {
     "title": "Birks Works",
     "composer": "Dizzy Gillespie",
     "year": 1957,
@@ -525,6 +537,12 @@
     "title": "Blue Lou",
     "composer": "Edgar Sampson",
     "year": 1935
+  },
+  {
+    "title": "Blue Minor",
+    "composer": "Sonny Clark",
+    "year": 1958,
+    "minor": true
   },
   {
     "title": "Blue Monk",
@@ -711,6 +729,11 @@
     "year": 1921
   },
   {
+    "title": "Carvin' the Rock",
+    "composer": "Elmo Hope",
+    "year": 1953
+  },
+  {
     "title": "Casbah",
     "composer": "Tadd Dameron",
     "year": 1948,
@@ -746,7 +769,7 @@
   },
   {
     "title": "Chega de Saudade (No More Blues)",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1958,
     "latin": true
   },
@@ -829,8 +852,14 @@
     "blues": true
   },
   {
+    "title": "Cool Struttin'",
+    "composer": "Sonny Clark",
+    "year": 1958,
+    "blues": true
+  },
+  {
     "title": "Corcovado (Quiet Nights of Quiet Stars)",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1962,
     "latin": true
   },
@@ -965,13 +994,18 @@
     "ballad": true
   },
   {
+    "title": "Deep Night",
+    "composer": "Charles Henderson/Rudy Vallée",
+    "year": 1929
+  },
+  {
     "title": "Delfeayo's Dilemma",
     "composer": "Wynton Marsalis",
     "year": 1985
   },
   {
     "title": "Desafinado",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1959,
     "latin": true
   },
@@ -992,13 +1026,19 @@
     "year": 1927
   },
   {
+    "title": "Dig Dis",
+    "composer": "Hank Mobley",
+    "year": 1960,
+    "blues": true
+  },
+  {
     "title": "Dinah",
     "composer": "Harry Akst/Sam M. Lewis & Joseph Young",
     "year": 1925
   },
   {
     "title": "Dindi",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1965,
     "latin": true
   },
@@ -1134,6 +1174,11 @@
     "title": "Eronel",
     "composer": "Thelonious Monk, Sadik Hakim, Idrees Sulieman",
     "year": 1951
+  },
+  {
+    "title": "Estate",
+    "composer": "Bruno Martino/Bruno Brighetti",
+    "year": 1960
   },
   {
     "title": "Ev'ry Time We Say Goodbye",
@@ -1557,7 +1602,7 @@
   },
   {
     "title": "How Insensitive",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1963,
     "latin": true
   },
@@ -1577,6 +1622,11 @@
     "composer": "Earl Zindars",
     "year": 1962,
     "waltz": true
+  },
+  {
+    "title": "Hush-a-bye (All the Pretty Little Horses)",
+    "composer": "Traditional/Dorothy Scarborough",
+    "year": 1925
   },
   {
     "title": "I Ain't Got Nobody",
@@ -1870,6 +1920,11 @@
     "ballad": true
   },
   {
+    "title": "I'll Close My Eyes",
+    "composer": "Billy Reid/Buddy Kaye",
+    "year": 1945
+  },
+  {
     "title": "I'll Keep Loving You",
     "composer": "Bud Powell",
     "year": 1949,
@@ -1950,6 +2005,11 @@
     "title": "I'm Old Fashioned",
     "composer": "Jerome Kern/Johnny Mercer",
     "year": 1942
+  },
+  {
+    "title": "I'm Through With Love",
+    "composer": "Gus Kahn, Matty Malneck, Fud Livingston",
+    "year": 1931
   },
   {
     "title": "I've Found a New Baby",
@@ -2054,9 +2114,15 @@
   },
   {
     "title": "If You Never Come to Me",
-    "composer": "Antonio Carlos Jobim/Vincius De Morales & Ray Gilbert",
+    "composer": "Antônio Carlos Jobim/Vincius De Morales & Ray Gilbert",
     "year": 1963,
     "latin": true
+  },
+  {
+    "title": "If You Were Mine",
+    "composer": "Johnny Mercer, Matty Malneck",
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "Ill Wind (You're Blowin' Me No Good)",
@@ -2554,6 +2620,12 @@
     "year": 1960
   },
   {
+    "title": "Lonely Town",
+    "composer": "Leonard Bernstein/Stephen Sondheim",
+    "year": 1957,
+    "ballad": true
+  },
+  {
     "title": "Lonely Woman",
     "composer": "Horace Silver",
     "year": 1963,
@@ -2636,6 +2708,13 @@
     "title": "Lucky To Be Me",
     "composer": "Leonard Bernstein/Betty Comden & Adolph Green",
     "year": 1944
+  },
+  {
+    "title": "Luiza",
+    "composer": "Chico Buarque, Francis Heme",
+    "year": 1997,
+    "waltz": true,
+    "ballad": true
   },
   {
     "title": "Lullaby of Birdland",
@@ -2729,7 +2808,7 @@
   },
   {
     "title": "Meditation",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1962,
     "latin": true
   },
@@ -2763,6 +2842,12 @@
     "title": "Milestones (new)",
     "composer": "Miles Davis",
     "year": 1958
+  },
+  {
+    "title": "Minor Meeting",
+    "composer": "Sonny Clark",
+    "year": 1960,
+    "minor": true
   },
   {
     "title": "Minor Mishap",
@@ -2800,7 +2885,7 @@
   },
   {
     "title": "Modinha",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1959
   },
   {
@@ -3238,7 +3323,7 @@
   },
   {
     "title": "Once I Loved",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1963,
     "latin": true
   },
@@ -3248,6 +3333,11 @@
     "year": 1937
   },
   {
+    "title": "One Foot in the Gutter",
+    "composer": "Clark Terry",
+    "year": 1958
+  },
+  {
     "title": "One for My Baby (and One More for the Road)",
     "composer": "Harold Arlen/Johnny Mercer",
     "year": 1943,
@@ -3255,7 +3345,7 @@
   },
   {
     "title": "One Note Samba",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1961,
     "latin": true
   },
@@ -3375,6 +3465,12 @@
     "year": 1936
   },
   {
+    "title": "Pie Eye's Blues",
+    "composer": "Duke Ellington",
+    "year": 1959,
+    "blues": true
+  },
+  {
     "title": "Pitter Panther Patter",
     "composer": "Duke Ellington",
     "year": 1940,
@@ -3423,6 +3519,11 @@
     "title": "Que Sera Sera",
     "composer": "Jay Livingston/Ray Evans",
     "year": 1956
+  },
+  {
+    "title": "Quiet Sip",
+    "composer": "Thad Jones",
+    "year": 1957
   },
   {
     "title": "Raincheck",
@@ -3541,6 +3642,11 @@
     "ballad": true
   },
   {
+    "title": "Royal Flush",
+    "composer": "Sonny Clark",
+    "year": 1958
+  },
+  {
     "title": "Ruby, My Dear",
     "composer": "Thelonious Monk",
     "year": 1947,
@@ -3561,6 +3667,12 @@
     "title": "S'Wonderful",
     "composer": "George Gershwin/Ira Gershwin",
     "year": 1927
+  },
+  {
+    "title": "Sabiá",
+    "composer": "Antônio Carlos Jobim/Chico Buarque",
+    "year": 1968,
+    "latin": true
   },
   {
     "title": "Saint Louis Blues",
@@ -3729,6 +3841,12 @@
     "blues": true
   },
   {
+    "title": "Sir John",
+    "composer": "Blue Mitchell",
+    "year": 1960,
+    "blues": true
+  },
+  {
     "title": "Six and Four",
     "composer": "Oliver Nelson",
     "year": 1961,
@@ -3757,6 +3875,11 @@
     "year": 1948
   },
   {
+    "title": "Smada",
+    "composer": "Billy Strayhorn",
+    "year": 1951
+  },
+  {
     "title": "Smile",
     "composer": "Charlie Chaplin/John Turner & Geoffrey Parsons",
     "year": 1936
@@ -3769,7 +3892,7 @@
   },
   {
     "title": "Só Danço Samba",
-    "composer": "Antonio Carlos Jobim/Vincius De Morales & Norman Gimbel",
+    "composer": "Antônio Carlos Jobim/Vincius De Morales & Norman Gimbel",
     "year": 1963,
     "latin": true
   },
@@ -3889,6 +4012,11 @@
     "ballad": true
   },
   {
+    "title": "Soul Station",
+    "composer": "Hank Mobley",
+    "year": 1960
+  },
+  {
     "title": "Soultrane",
     "composer": "Tadd Dameron",
     "year": 1956,
@@ -3907,6 +4035,11 @@
   {
     "title": "Sphere",
     "composer": "Barry Harris",
+    "year": 1960
+  },
+  {
+    "title": "Split Feelin's",
+    "composer": "Hank Mobley",
     "year": 1960
   },
   {
@@ -4058,6 +4191,11 @@
     "year": 1928
   },
   {
+    "title": "Sweet Pumpkin",
+    "composer": "Ronell Bright",
+    "year": 1958
+  },
+  {
     "title": "Sweet Sue, Just You",
     "composer": "Victor Young/Will J. Harris",
     "year": 1928
@@ -4147,6 +4285,11 @@
     "ballad": true
   },
   {
+    "title": "That's Earl, Brother",
+    "composer": "Dizzy Gillespie",
+    "year": 1946
+  },
+  {
     "title": "That's My Girl",
     "composer": "Alec Wilder/William Engvick",
     "year": 1978
@@ -4225,6 +4368,11 @@
     "holiday": true
   },
   {
+    "title": "The Folks Who Live on the Hill",
+    "composer": "Jerome Kern/Oscar Hammerstein II",
+    "year": 1937
+  },
+  {
     "title": "The Froof (The Fruit)",
     "composer": "Bud Powell",
     "year": 1951
@@ -4237,7 +4385,7 @@
   },
   {
     "title": "The Girl from Ipanema",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1963,
     "latin": true
   },
@@ -4551,6 +4699,11 @@
     "year": 1946
   },
   {
+    "title": "This I Dig of You",
+    "composer": "Hank Mobley",
+    "year": 1960
+  },
+  {
     "title": "This Is Always",
     "composer": "Harry Warren/Mack Gordon",
     "year": 1946,
@@ -4604,6 +4757,11 @@
     "year": 1917
   },
   {
+    "title": "Tijuana Gift Shop",
+    "composer": "Charles Mingus",
+    "year": 1962
+  },
+  {
     "title": "Time After Time",
     "composer": "Jule Styne/Sammy Cahn",
     "year": 1947
@@ -4629,6 +4787,12 @@
     "composer": "Dizzy Gillespie & Chano Pozo",
     "year": 1947,
     "latin": true
+  },
+  {
+    "title": "Tis Autumn",
+    "composer": "Henry Nemo",
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "To Duke With Love",
@@ -4693,7 +4857,7 @@
   },
   {
     "title": "Triste",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1967,
     "latin": true
   },
@@ -4701,7 +4865,7 @@
     "title": "Trouble is a Man",
     "composer": "Alec Wilder",
     "year": 1944,
-    "ballad":true
+    "ballad": true
   },
   {
     "title": "Two Bass Hit",
@@ -4813,7 +4977,7 @@
   },
   {
     "title": "Wave",
-    "composer": "Antonio Carlos Jobim",
+    "composer": "Antônio Carlos Jobim",
     "year": 1967,
     "latin": true
   },
@@ -5092,6 +5256,12 @@
   {
     "title": "You Go to My Head",
     "composer": "J. Fred Coots/Haven Gillespie",
+    "year": 1938,
+    "ballad": true
+  },
+  {
+    "title": "You Leave Me Breathless",
+    "composer": "Friedrich Hollaender/Ralph Freed",
     "year": 1938,
     "ballad": true
   },
