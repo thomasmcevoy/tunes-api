@@ -228,6 +228,11 @@
     "ballad": true
   },
   {
+    "title": "Angelica",
+    "composer": "Duke Ellington",
+    "year": 1965
+  },
+  {
     "title": "Angels We Have Heard on High",
     "composer": "James Chadwick",
     "year": 1862,
@@ -536,6 +541,11 @@
     "title": "Blue Room",
     "composer": "Richard Rodgers/Lorenz Hart",
     "year": 1926
+  },
+  {
+    "title": "Blue Rose",
+    "composer": "Duke Ellington",
+    "year": 1956
   },
   {
     "title": "Blue Skies",
@@ -975,6 +985,11 @@
     "composer": "Charlie Parker",
     "year": 1947,
     "rhythm": true
+  },
+  {
+    "title": "Diane",
+    "composer": "Ernö Rapée & Lew Pollack",
+    "year": 1927
   },
   {
     "title": "Dinah",
@@ -2555,6 +2570,11 @@
     "year": 1930
   },
   {
+    "title": "Love is a Many-Splendored Thing",
+    "composer": "Sammy Fain/Paul Francis Webster",
+    "year": 1955
+  },
+  {
     "title": "Love Is Here to Stay",
     "composer": "George Gershwin/Ira Gershwin",
     "year": 1937
@@ -2680,6 +2700,11 @@
     "title": "Martha's Prize",
     "composer": "Cedar Walton",
     "year": 1991
+  },
+  {
+    "title": "Maybe September",
+    "composer": "Percy Faith/Jay Livingston & Ray Evans",
+    "year": 1965
   },
   {
     "title": "Mean to Me",
@@ -3288,6 +3313,11 @@
     "rhythm": true
   },
   {
+    "title": "Peg o' My Heart",
+    "composer": "Fred Fisher/Alfred Bryan",
+    "year": 1913
+  },
+  {
     "title": "Pennies from Heaven",
     "composer": "Arthur Johnston/Johnny Burke",
     "year": 1936
@@ -3464,6 +3494,11 @@
     "year": 1931
   },
   {
+    "title": "Roll On",
+    "composer": "Elmo Hope",
+    "year": 1966
+  },
+  {
     "title": "Rose Room",
     "composer": "Art Hickman/Harry Williams",
     "year": 1917
@@ -3574,6 +3609,16 @@
     "year": 1938
   },
   {
+    "title": "Serenade to Sweden",
+    "composer": "Duke Ellington",
+    "year": 1963
+  },
+  {
+    "title": "Serenata",
+    "composer": "Leroy Anderson",
+    "year": 1949
+  },
+  {
     "title": "Serenity",
     "composer": "Joe Henderson",
     "year": 1964
@@ -3583,6 +3628,12 @@
     "composer": "Victor Feldman",
     "year": 1963,
     "miles": true
+  },
+  {
+    "title": "Shades of Jackie Mac",
+    "composer": "Grant Stewart",
+    "year": 2007,
+    "contrafact": true
   },
   {
     "title": "Shangri-La",
@@ -3685,6 +3736,11 @@
     "year": 1948
   },
   {
+    "title": "Smile",
+    "composer": "Charlie Chaplin/John Turner & Geoffrey Parsons",
+    "year": 1936
+  },
+  {
     "title": "Smoke Gets in Your Eyes",
     "composer": "Jerome Kern/Otto Harbach",
     "year": 1933,
@@ -3772,6 +3828,11 @@
     "composer": "Richard Rodgers/Oscar Hammerstein II",
     "year": 1951,
     "ballad": true
+  },
+  {
+    "title": "Something's Gotta Give",
+    "composer": "Johnny Mercer",
+    "year": 1954
   },
   {
     "title": "Sometimes I'm Happy",
@@ -4065,6 +4126,11 @@
     "ballad": true
   },
   {
+    "title": "That's My Girl",
+    "composer": "Alec Wilder/William Engvick",
+    "year": 1978
+  },
+  {
     "title": "The Best Is Yet to Come",
     "composer": "Cy Coleman/Carolyn Leigh",
     "year": 1959
@@ -4128,7 +4194,7 @@
   },
   {
     "title": "The Feeling of Jazz",
-    "composer": "Duke Ellington/Bobby Troup",
+    "composer": "Duke Ellington/Bobby Troup & George T. Simon",
     "year": 1962
   },
   {
@@ -4527,6 +4593,12 @@
     "year": 1936
   },
   {
+    "title": "Timeline",
+    "composer": "Neal Miner",
+    "year": 2014,
+    "contrafact": true
+  },
+  {
     "title": "Tin Tin Deo",
     "composer": "Dizzy Gillespie & Chano Pozo",
     "year": 1947,
@@ -4554,6 +4626,11 @@
     "composer": "Barry Harris",
     "year": 1979,
     "ballad": true
+  },
+  {
+    "title": "Tonight I Shall Sleep (with a Smile on my Face)",
+    "composer": "Duke Ellington/Irving Gordon",
+    "year": 1945
   },
   {
     "title": "Too Late Now",
@@ -5046,6 +5123,12 @@
     "title": "Young and Foolish",
     "composer": "Albert Hague/Arnold B. Horwitt",
     "year": 1954,
+    "ballad": true
+  },
+  {
+    "title": "Young at Heart",
+    "composer": "Johnny Richards/Carolyn Leigh",
+    "year": 1953,
     "ballad": true
   },
   {
