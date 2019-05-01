@@ -1,5 +1,11 @@
 [
   {
+    "title": "52nd Street Theme",
+    "composer": "Thelonious Monk",
+    "year": 1944,
+    "rhythm": true
+  },
+  {
     "title": "A Beautiful Friendship",
     "composer": "Donald Kahn/Stanley Styne",
     "year": 1953
@@ -46,6 +52,12 @@
     "title": "A Sleepin' Bee",
     "composer": "Harold Arlen/Truman Capote",
     "year": 1954
+  },
+  {
+    "title": "A Soft Spot",
+    "composer": "Barry Harris",
+    "year": 1976,
+    "contrafact": true
   },
   {
     "title": "A Time for Love",
@@ -194,6 +206,12 @@
     "year": 1957
   },
   {
+    "title": "An Oscar for Treadwell",
+    "composer": "Charlie Parker",
+    "year": 1950,
+    "rhythm": true
+  },
+  {
     "title": "Angel Eyes",
     "composer": "Matt Dennis/Earl K. Brent",
     "year": 1946
@@ -264,6 +282,12 @@
     "blues": true
   },
   {
+    "title": "Audubon",
+    "composer": "Sonny Rollins",
+    "year": 1949,
+    "contrafact": true
+  },
+  {
     "title": "Autumn in New York",
     "composer": "Vernon Duke",
     "year": 1934,
@@ -315,6 +339,18 @@
     "latin": true
   },
   {
+    "title": "Barbados",
+    "composer": "Charlie Parker",
+    "year": 1948,
+    "blues": true
+  },
+  {
+    "title": "Barnego",
+    "composer": "Barry Harris",
+    "year": 1968,
+    "latin": true
+  },
+  {
     "title": "Basin Street Blues",
     "composer": "Spencer Williams",
     "year": 1928
@@ -326,6 +362,12 @@
     "waltz": true
   },
   {
+    "title": "Bean and the Boys",
+    "composer": "Coleman Hawkins",
+    "year": 1948,
+    "contrafact": true
+  },
+  {
     "title": "Beautiful Love",
     "composer": "Victor Young, Wayne King, Egbert Van Alstyne/Haven Gillespie",
     "year": 1931
@@ -334,6 +376,11 @@
     "title": "Beautiful Moons Ago",
     "composer": "Oscar Moore",
     "year": 1943
+  },
+  {
+    "title": "Bebop",
+    "composer": "Dizzy Gillespie",
+    "year": 1945
   },
   {
     "title": "Begin the Beguine",
@@ -373,6 +420,12 @@
     "blues": true
   },
   {
+    "title": "Bird of Paradise",
+    "composer": "Charlie Parker",
+    "year": 1947,
+    "contrafact": true
+  },
+  {
     "title": "Birks Works",
     "composer": "Dizzy Gillespie",
     "year": 1957,
@@ -380,7 +433,7 @@
     "minor": true
   },
   {
-    "title": "Bish Bash Bosh",
+    "title": "Bish, Bash, Bosh",
     "composer": "Barry Harris",
     "year": 1962
   },
@@ -422,6 +475,12 @@
     "composer": "Billy Strayhorn",
     "year": 1967,
     "ballad": true
+  },
+  {
+    "title": "Bloomdido",
+    "composer": "Charlie Parker",
+    "year": 1950,
+    "blues": true
   },
   {
     "title": "Blue 'n' Boogie",
@@ -543,6 +602,12 @@
     "title": "Brilliant Corners",
     "composer": "Thelonious Monk",
     "year": 1956
+  },
+  {
+    "title": "Bull's Eye",
+    "composer": "Barry Harris",
+    "year": 1968,
+    "rhythm": true
   },
   {
     "title": "But Beautiful",
@@ -671,6 +736,18 @@
     "year": 1938
   },
   {
+    "title": "Cheryl",
+    "composer": "Charlie Parker",
+    "year": 1947,
+    "blues": true
+  },
+  {
+    "title": "Chi-Chi",
+    "composer": "Charlie Parker",
+    "year": 1953,
+    "blues": true
+  },
+  {
     "title": "Christmas Time is Here",
     "composer": "Vince Guaraldi/Lee Mendelson",
     "year": 1965,
@@ -718,6 +795,12 @@
     "title": "Confirmation",
     "composer": "Charlie Parker",
     "year": 1953
+  },
+  {
+    "title": "Cool Blues",
+    "composer": "Charlie Parker",
+    "year": 1947,
+    "blues": true
   },
   {
     "title": "Corcovado (Quiet Nights of Quiet Stars)",
@@ -769,6 +852,11 @@
     "latin": true
   },
   {
+    "title": "Curtain Call",
+    "composer": "Barry Harris",
+    "year": 1960
+  },
+  {
     "title": "Dance Cadaverous",
     "composer": "Wayne Shorter",
     "year": 1965,
@@ -789,6 +877,12 @@
     "title": "Dancing on the Ceiling",
     "composer": "Richard Rodgers/Lorenz Hart",
     "year": 1930
+  },
+  {
+    "title": "Danny Boy (Londonderry Air)",
+    "composer": "Traditional/Frederic Weatherly",
+    "year": 1913,
+    "ballad": true
   },
   {
     "title": "Darn That Dream",
@@ -849,6 +943,17 @@
     "composer": "Antonio Carlos Jobim",
     "year": 1959,
     "latin": true
+  },
+  {
+    "title": "Dewey Square",
+    "composer": "Charlie Parker",
+    "year": 1947
+  },
+  {
+    "title": "Dexterity",
+    "composer": "Charlie Parker",
+    "year": 1947,
+    "rhythm": true
   },
   {
     "title": "Dinah",
@@ -1004,6 +1109,11 @@
     "title": "Ev'rything I've Got",
     "composer": "Richard Rodgers/Lorenz Hart",
     "year": 1942
+  },
+  {
+    "title": "Even Steven",
+    "composer": "Barry Harris",
+    "year": 1967
   },
   {
     "title": "Everything Happens to Me",
@@ -1249,6 +1359,12 @@
     "title": "Hackensack",
     "composer": "Thelonious Monk",
     "year": 1954,
+    "contrafact": true
+  },
+  {
+    "title": "Half Nelson",
+    "composer": "Miles Davis",
+    "year": 1947,
     "contrafact": true
   },
   {
@@ -1540,6 +1656,11 @@
     "title": "I Like to Recognize the Tune",
     "composer": "Richard Rodgers/Lorenz Hart",
     "year": 1939
+  },
+  {
+    "title": "I Love Lucy",
+    "composer": "Eliot Daniel",
+    "year": 1951
   },
   {
     "title": "I Love Paris",
@@ -1938,6 +2059,11 @@
     "year": 1952
   },
   {
+    "title": "Is You Is Or Is You Ain't My Baby?",
+    "composer": "Louis Jordan",
+    "year": 1943
+  },
+  {
     "title": "Isfahan",
     "composer": "Billy Strayhorn & Duke Ellington",
     "year": 1965,
@@ -2126,6 +2252,18 @@
     "year": 1929
   },
   {
+    "title": "K.C. Blues",
+    "composer": "Charlie Parker",
+    "year": 1951,
+    "blues": true
+  },
+  {
+    "title": "K.G.",
+    "composer": "Barry Harris",
+    "year": 1996,
+    "minor": true
+  },
+  {
     "title": "Killer Joe",
     "composer": "Benny Golson",
     "year": 1959
@@ -2155,6 +2293,12 @@
     "title": "Lady Bird",
     "composer": "Tadd Dameron",
     "year": 1939
+  },
+  {
+    "title": "Laird Bird",
+    "composer": "Charlie Parker",
+    "year": 1952,
+    "blues": true
   },
   {
     "title": "Lament",
@@ -2257,6 +2401,11 @@
     "year": 1944
   },
   {
+    "title": "Like This!",
+    "composer": "Barry Harris",
+    "year": 1967
+  },
+  {
     "title": "Limehouse Blues",
     "composer": "Philip Braham/Douglas Furber",
     "year": 1922
@@ -2289,9 +2438,20 @@
     "year": 1936
   },
   {
+    "title": "Little Willie Leaps",
+    "composer": "Miles Davis",
+    "year": 1947,
+    "contrafact": true
+  },
+  {
     "title": "Liza (All the Clouds'll Roll Away)",
     "composer": "George Gershwin/Ira Gershwin & Gus Khan",
     "year": 1929
+  },
+  {
+    "title": "Lolita",
+    "composer": "Barry Harris",
+    "year": 1960
   },
   {
     "title": "Lonely Woman",
@@ -2388,6 +2548,12 @@
     "year": 1935
   },
   {
+    "title": "Luminescence",
+    "composer": "Barry Harris",
+    "year": 1967,
+    "contrafact": true
+  },
+  {
     "title": "Lush Life",
     "composer": "Billy Strayhorn",
     "year": 1936,
@@ -2434,6 +2600,12 @@
     "title": "Manhattan",
     "composer": "Richard Rodgers/Lorenz Hart",
     "year": 1925
+  },
+  {
+    "title": "Marmaduke",
+    "composer": "Charlie Parker",
+    "year": 1948,
+    "rhythm": true
   },
   {
     "title": "Martha's Prize",
@@ -2517,6 +2689,12 @@
     "year": 1958
   },
   {
+    "title": "Mohawk",
+    "composer": "Charlie Parker",
+    "year": 1950,
+    "blues": true
+  },
+  {
     "title": "Moment to Moment",
     "composer": "Henry Mancini/Johnny Mercer",
     "year": 1965
@@ -2560,6 +2738,11 @@
     "waltz": true
   },
   {
+    "title": "Moon Shadow",
+    "composer": "Barry Harris",
+    "year": 1996
+  },
+  {
     "title": "Moonglow",
     "composer": "Will Hudson/Eddie De Lange",
     "year": 1934
@@ -2576,9 +2759,20 @@
     "ballad": true
   },
   {
+    "title": "Moose the Mooche",
+    "composer": "Charlie Parker",
+    "year": 1946,
+    "rhythm": true
+  },
+  {
     "title": "More Than You Know",
     "composer": "Vincent Youmans/Billy Rose & Edward Eliscu",
     "year": 1929
+  },
+  {
+    "title": "Morning Coffee",
+    "composer": "Barry Harris",
+    "year": 1960
   },
   {
     "title": "Moten Swing",
@@ -2601,6 +2795,11 @@
     "year": 1959,
     "blues": true,
     "minor": true
+  },
+  {
+    "title": "Mutattra",
+    "composer": "Barry Harris",
+    "year": 1960
   },
   {
     "title": "My Baby Just Cares for Me",
@@ -2655,6 +2854,12 @@
     "composer": "Billy Strayhorn",
     "year": 1935,
     "ballad": true
+  },
+  {
+    "title": "My Little Suede Shoes",
+    "composer": "Charlie Parker",
+    "year": 1951,
+    "latin": true
   },
   {
     "title": "My Man's Gone Now",
@@ -2759,6 +2964,12 @@
     "year": 1955
   },
   {
+    "title": "Nicaragua",
+    "composer": "Barry Harris",
+    "year": 1967,
+    "latin": true
+  },
+  {
     "title": "Nice Work If You Can Get It",
     "composer": "George Gershwin/Ira Gershwin",
     "year": 1937
@@ -2785,6 +2996,18 @@
     "composer": "Toots Camarata/Bob Russell",
     "year": 1944,
     "ballad": true
+  },
+  {
+    "title": "Nobody's",
+    "composer": "Barry Harris",
+    "year": 1979,
+    "contrafact": true
+  },
+  {
+    "title": "Now's the Time",
+    "composer": "Charlie Parker",
+    "year": 1953,
+    "blues": true
   },
   {
     "title": "Nutty",
@@ -2820,6 +3043,17 @@
     "composer": "Thelonious Monk",
     "year": 1947,
     "minor": true
+  },
+  {
+    "title": "Off Monk",
+    "composer": "Barry Harris",
+    "year": 1968
+  },
+  {
+    "title": "Oh! Look at Me Now",
+    "composer": "Joe Bushkin/John DeVries",
+    "year": 1941,
+    "sinatra": true
   },
   {
     "title": "Oh, Lady Be Good!",
@@ -2918,6 +3152,12 @@
     "latin": true
   },
   {
+    "title": "Ornithology",
+    "composer": "Charlie Parker",
+    "year": 1945,
+    "contrafact": true
+  },
+  {
     "title": "Our Delight",
     "composer": "Tadd Dameron",
     "year": 1946
@@ -2955,10 +3195,23 @@
     "year": 1951
   },
   {
+    "title": "Parker's Mood",
+    "composer": "Charlie Parker",
+    "year": 1948,
+    "blues": true
+  },
+  {
     "title": "Passion Flower",
     "composer": "Billy Strayhorn",
     "year": 1944,
-    "ballad": true
+    "ballad": true,
+    "latin": true
+  },
+  {
+    "title": "Passport",
+    "composer": "Charlie Parker",
+    "year": 1949,
+    "rhythm": true
   },
   {
     "title": "Pennies from Heaven",
@@ -3058,6 +3311,12 @@
     "latin": true
   },
   {
+    "title": "Red Cross",
+    "composer": "Charlie Parker",
+    "year": 1944,
+    "rhythm": true
+  },
+  {
     "title": "Reflections",
     "composer": "Thelonious Monk",
     "year": 1952,
@@ -3072,7 +3331,20 @@
   {
     "title": "Reets and I",
     "composer": "Bennie Harris",
-    "year": 1955
+    "year": 1955,
+    "contrafact": true
+  },
+  {
+    "title": "Relaxin' at Camarillo",
+    "composer": "Charlie Parker",
+    "year": 1947,
+    "blues": true
+  },
+  {
+    "title": "Relaxin' with Lee",
+    "composer": "Charlie Parker",
+    "year": 1950,
+    "contrafact": true
   },
   {
     "title": "Remember",
@@ -3126,6 +3398,11 @@
     "title": "Rosetta",
     "composer": "Earl Hines/Henri Woode",
     "year": 1933
+  },
+  {
+    "title": "Rouge",
+    "composer": "Barry Harris",
+    "year": 1969
   },
   {
     "title": "Round Midnight",
@@ -3207,6 +3484,12 @@
     "ballad": true
   },
   {
+    "title": "Segment",
+    "composer": "Charlie Parker",
+    "year": 1949,
+    "minor": true
+  },
+  {
     "title": "September in the Rain",
     "composer": "Harry Warren/Al Dubin",
     "year": 1937
@@ -3243,6 +3526,11 @@
     "year": 1957
   },
   {
+    "title": "She Rote",
+    "composer": "Charlie Parker",
+    "year": 1951
+  },
+  {
     "title": "She's Funny That Way",
     "composer": "Charles N. Daniels/Richard A. Whiting",
     "year": 1928
@@ -3257,6 +3545,18 @@
     "composer": "Kenny Dorham",
     "year": 1963,
     "minor": true
+  },
+  {
+    "title": "Si Si",
+    "composer": "Charlie Parker",
+    "year": 1951,
+    "blues": true
+  },
+  {
+    "title": "Sid's Delight (Tadd's Delight)",
+    "composer": "Tadd Dameron",
+    "year": 1949,
+    "miles": true
   },
   {
     "title": "Silent Night",
@@ -3275,6 +3575,18 @@
     "composer": "Frank Foster",
     "year": 1968,
     "waltz": true
+  },
+  {
+    "title": "Sippin' at Bell's",
+    "composer": "Miles Davis",
+    "year": 1947,
+    "blues": true
+  },
+  {
+    "title": "Six and Four",
+    "composer": "Oliver Nelson",
+    "year": 1961,
+    "blues": true
   },
   {
     "title": "Six Eight",
@@ -3431,6 +3743,17 @@
     "year": 1965
   },
   {
+    "title": "Sphere",
+    "composer": "Barry Harris",
+    "year": 1960
+  },
+  {
+    "title": "Spontaneous Combustion",
+    "composer": "Cannonball Adderley",
+    "year": 1955,
+    "blues": true
+  },
+  {
     "title": "Spring is Here",
     "composer": "Richard Rodgers/Lorenz Hart",
     "year": 1938
@@ -3474,6 +3797,12 @@
     "composer": "Frank S. Perkins/Mitchell Parish",
     "year": 1934,
     "ballad": true
+  },
+  {
+    "title": "Steeplechase",
+    "composer": "Charlie Parker",
+    "year": 1948,
+    "rhythm": true
   },
   {
     "title": "Stella By Starlight",
@@ -3546,6 +3875,12 @@
     "year": 1957
   },
   {
+    "title": "Swedish Schnapps",
+    "composer": "Charlie Parker",
+    "year": 1951,
+    "rhythm": true
+  },
+  {
     "title": "Sweet and Lovely",
     "composer": "Gus Arnheim, Charles N. Daniels & Harry Tobias",
     "year": 1931
@@ -3595,6 +3930,18 @@
     "title": "Teach Me Tonight",
     "composer": "Gene De Paul/Sammy Cahn",
     "year": 1953
+  },
+  {
+    "title": "Teddy's Dream",
+    "composer": "Hank Jones",
+    "year": 1956,
+    "ballad": true
+  },
+  {
+    "title": "Teenie",
+    "composer": "Barry Harris",
+    "year": 1960,
+    "contrafact": true
   },
   {
     "title": "Tempus Fugit",
@@ -3651,6 +3998,12 @@
     "title": "The Best Things in Life Are Free",
     "composer": "Ray Henderson/Buddy DaSilva & Lew Brown",
     "year": 1927
+  },
+  {
+    "title": "The Bird of Red and Gold",
+    "composer": "Barry Harris",
+    "year": 1979,
+    "ballad": true
   },
   {
     "title": "The Boy Next Door",
@@ -3719,6 +4072,12 @@
     "title": "The Good Life",
     "composer": "Sacha Distel & Jack Reardon",
     "year": 1962
+  },
+  {
+    "title": "The Gypsy",
+    "composer": "Billy Reid",
+    "year": 1945,
+    "ballad": true
   },
   {
     "title": "The Inchworm",
@@ -3869,6 +4228,12 @@
     "ballad": true
   },
   {
+    "title": "The Street Beat",
+    "composer": "Charlie Parker/Sir Charles Thompson",
+    "year": 1945,
+    "rhythm": true
+  },
+  {
     "title": "The Surrey with the Fringe on Top",
     "composer": "Richard Rodgers/Oscar Hammerstein II",
     "year": 1943
@@ -4002,6 +4367,12 @@
     "year": 1941
   },
   {
+    "title": "This is No Laughing Matter",
+    "composer": "Martin Block, Al Frisch, Van Loman",
+    "year": 1941,
+    "ballad": true
+  },
+  {
     "title": "This Year's Kisses",
     "composer": "Irving Berlin",
     "year": 1937
@@ -4025,6 +4396,12 @@
     "title": "Three Little Words",
     "composer": "Harry Ruby/Bert Kalmar",
     "year": 1930
+  },
+  {
+    "title": "Tico-Tico (no Fubá)",
+    "composer": "Zequinha de Abreu",
+    "year": 1917,
+    "latin": true
   },
   {
     "title": "Tiger Rag",
@@ -4053,9 +4430,26 @@
     "latin": true
   },
   {
+    "title": "To Duke With Love",
+    "composer": "Barry Harris",
+    "year": 2008
+  },
+  {
+    "title": "To Monk With Love",
+    "composer": "Barry Harris",
+    "year": 1984,
+    "ballad": true
+  },
+  {
     "title": "To Walter Davis Jr. With Love",
     "composer": "Barry Harris",
     "year": 1996,
+    "ballad": true
+  },
+  {
+    "title": "Tommy's Ballad",
+    "composer": "Barry Harris",
+    "year": 1979,
     "ballad": true
   },
   {
@@ -4136,6 +4530,12 @@
     "year": 1939
   },
   {
+    "title": "Uno Dos Tres",
+    "composer": "Barry Harris",
+    "year": 1996,
+    "latin": true
+  },
+  {
     "title": "Until the Real Thing Comes Along",
     "composer": "Mann Holiner, Alberta Nichols, Saul Chapin/Sammy Cahn",
     "year": 1936,
@@ -4163,6 +4563,12 @@
     "composer": "Matt Dennis/Tom Adair",
     "year": 1941,
     "ballad": true
+  },
+  {
+    "title": "Visa",
+    "composer": "Charlie Parker",
+    "year": 1949,
+    "blues": true
   },
   {
     "title": "Wabash",
@@ -4208,6 +4614,12 @@
     "title": "We'll Be Together Again",
     "composer": "Carl Fischer/Frankie Laine",
     "year": 1945
+  },
+  {
+    "title": "Webb City",
+    "composer": "Bud Powell/Gil Fuller",
+    "year": 1946,
+    "rhythm": true
   },
   {
     "title": "Wee Dot",
@@ -4399,7 +4811,7 @@
     "year": 1929
   },
   {
-    "title": "Woody 'n' You (Algo Bueno)",
+    "title": "Woody'n You (Algo Bueno)",
     "composer": "Dizzy Gillespie",
     "year": 1943,
     "miles": true
@@ -4476,6 +4888,11 @@
     "title": "You Stepped Out of a Dream",
     "composer": "Nacio Herb Brown/Gus Kahn",
     "year": 1940
+  },
+  {
+    "title": "You Sweet and Fancy Lady",
+    "composer": "Barry Harris",
+    "year": 1969
   },
   {
     "title": "You Took Advantage of Me",
