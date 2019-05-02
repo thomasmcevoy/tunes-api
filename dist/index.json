@@ -1027,7 +1027,7 @@
     "rhythm": true
   },
   {
-    "title": "Dial \"B\" for Beauty",
+    "title": "Dial B for Beauty",
     "composer": "Tadd Dameron",
     "year": 1953,
     "ballad": true
@@ -1307,6 +1307,12 @@
     "title": "Focus",
     "composer": "Tadd Dameron",
     "year": 1948
+  },
+  {
+    "title": "Fontainbleau",
+    "composer": "Tadd Dameron",
+    "year": 1962,
+    "ballad": true
   },
   {
     "title": "Fools Rush In (Where Angels Fear to Tread)",
@@ -2662,15 +2668,15 @@
     "year": 1944
   },
   {
-    "title": "Look For the Silver Lining",
-    "composer": "Jerome Kern/Buddy DeSylva",
-    "year": 1919
-  },
-  {
     "title": "Look, Stop, and Listen",
     "composer": "Tadd Dameron",
     "year": 1962,
     "rhythm": true
+  },
+  {
+    "title": "Look For the Silver Lining",
+    "composer": "Jerome Kern/Buddy DeSylva",
+    "year": 1919
   },
   {
     "title": "Lotus Blossom",
@@ -4243,10 +4249,22 @@
     "year": 1928
   },
   {
+    "title": "Swift As the Wind",
+    "composer": "Tadd Dameron",
+    "year": 1962,
+    "rhythm": true
+  },
+  {
     "title": "Swinging 'til the Girls Come Home",
     "composer": "Oscar Pettiford",
     "year": 1951,
     "blues": true
+  },
+  {
+    "title": "Symphonette",
+    "composer": "Tadd Dameron",
+    "year": 1948,
+    "rhythm": true
   },
   {
     "title": "Take the \"A\" Train",
@@ -4623,6 +4641,11 @@
     "title": "The Surrey with the Fringe on Top",
     "composer": "Richard Rodgers/Oscar Hammerstein II",
     "year": 1943
+  },
+  {
+    "title": "The Tadd Walk",
+    "composer": "Tadd Dameron",
+    "year": 1947
   },
   {
     "title": "The Things We Did Last Summer",
