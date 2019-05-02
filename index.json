@@ -11,6 +11,12 @@
     "year": 1953
   },
   {
+    "title": "A Blue Time",
+    "composer": "Tadd Dameron",
+    "year": 1960,
+    "blues": true
+  },
+  {
     "title": "A Child is Born",
     "composer": "Thad Jones/Alec Wilder",
     "year": 1969,
@@ -1021,6 +1027,12 @@
     "rhythm": true
   },
   {
+    "title": "Dial \"B\" for Beauty",
+    "composer": "Tadd Dameron",
+    "year": 1953,
+    "ballad": true
+  },
+  {
     "title": "Diane",
     "composer": "Ernö Rapée & Lew Pollack",
     "year": 1927
@@ -1573,7 +1585,8 @@
   {
     "title": "Hot House",
     "composer": "Tadd Dameron",
-    "year": 1945
+    "year": 1945,
+    "contrafact": true
   },
   {
     "title": "How About You?",
@@ -2372,6 +2385,12 @@
     "year": 1964
   },
   {
+    "title": "Jumpin' with Symphony Sid",
+    "composer": "Lester Young/King Pleasure",
+    "year": 1946,
+    "rhythm": true
+  },
+  {
     "title": "Just a Gigolo",
     "composer": "Irving Caesar & Leonello Casucci/Julius Brammer",
     "year": 1929,
@@ -2646,6 +2665,12 @@
     "title": "Look For the Silver Lining",
     "composer": "Jerome Kern/Buddy DeSylva",
     "year": 1919
+  },
+  {
+    "title": "Look, Stop, and Listen",
+    "composer": "Tadd Dameron",
+    "year": 1962,
+    "rhythm": true
   },
   {
     "title": "Lotus Blossom",
@@ -3430,6 +3455,12 @@
     "rhythm": true
   },
   {
+    "title": "Peace",
+    "composer": "Horace Silver",
+    "year": 1959,
+    "ballad": true
+  },
+  {
     "title": "Peg o' My Heart",
     "composer": "Fred Fisher/Alfred Bryan",
     "year": 1913
@@ -3895,6 +3926,11 @@
     "composer": "Jerome Kern/Otto Harbach",
     "year": 1933,
     "ballad": true
+  },
+  {
+    "title": "Smooth As the Wind",
+    "composer": "Tadd Dameron",
+    "year": 1960
   },
   {
     "title": "Só Danço Samba",
@@ -5324,6 +5360,11 @@
     "title": "You'd Be So Nice To Come Home To",
     "composer": "Cole Porter",
     "year": 1943
+  },
+  {
+    "title": "You're A Joy",
+    "composer": "Tadd Dameron",
+    "year": 1962
   },
   {
     "title": "You're a Mean One, Mr. Grinch",
