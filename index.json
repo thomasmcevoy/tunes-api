@@ -3945,6 +3945,12 @@
     "latin": true
   },
   {
+    "title": "So Far, So Good",
+    "composer": "Barry Harris",
+    "year": 1990,
+    "contrafact": true
+  },
+  {
     "title": "So In Love",
     "composer": "Cole Porter",
     "year": 1948
@@ -4332,6 +4338,12 @@
     "title": "That Old Feeling",
     "composer": "Sammy Fain/Lew Brown",
     "year": 1937
+  },
+  {
+    "title": "That Secret Place",
+    "composer": "Barry Harris",
+    "year": 1990,
+    "ballad": true
   },
   {
     "title": "That Tired Routine Called Love",
@@ -5301,7 +5313,7 @@
     "year": 1956
   },
   {
-    "title": "Wrap Your Troubles in Dreamse",
+    "title": "Wrap Your Troubles in Dreams",
     "composer": "Harry Barris/Ted Koehler & Billy Moll",
     "year": 1931
   },
