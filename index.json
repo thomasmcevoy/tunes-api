@@ -229,6 +229,11 @@
     "rhythm": true
   },
   {
+    "title": "And So I Love You",
+    "composer": "Barry Harris",
+    "year": 1972
+  },
+  {
     "title": "Angel Eyes",
     "composer": "Matt Dennis/Earl K. Brent",
     "year": 1946
@@ -367,7 +372,7 @@
     "blues": true
   },
   {
-    "title": "Barnego",
+    "title": "Barengo",
     "composer": "Barry Harris",
     "year": 1968,
     "latin": true
@@ -2100,6 +2105,12 @@
     "year": 1933
   },
   {
+    "title": "If I Loved You",
+    "composer": "Richard Rodgers/Oscar Hammerstein II",
+    "year": 1945,
+    "ballad": true
+  },
+  {
     "title": "If I Only Had A Brain",
     "composer": "Harold Arlen/Yip Harburg",
     "year": 1939
@@ -3246,6 +3257,12 @@
     "contrafact": true
   },
   {
+    "title": "Now and Then",
+    "composer": "Barry Harris",
+    "year": 1972,
+    "ballad": true
+  },
+  {
     "title": "Now's the Time",
     "composer": "Charlie Parker",
     "year": 1953,
@@ -4250,6 +4267,11 @@
     "year": 1958
   },
   {
+    "title": "Sweet Sewanee Blues",
+    "composer": "Barry Harris",
+    "year": 1972
+  },
+  {
     "title": "Sweet Sue, Just You",
     "composer": "Victor Young/Will J. Harris",
     "year": 1928
@@ -5029,6 +5051,11 @@
     "waltz": true
   },
   {
+    "title": "Vicissitudes",
+    "composer": "Barry Harris",
+    "year": 1972
+  },
+  {
     "title": "Violets For Your Furs",
     "composer": "Matt Dennis/Tom Adair",
     "year": 1941,
@@ -5275,6 +5302,11 @@
     "composer": "Cy Coleman/Carolyn Leigh",
     "year": 1957,
     "sinatra": true
+  },
+  {
+    "title": "With a Grain of Salt",
+    "composer": "Barry Harris",
+    "year": 1972
   },
   {
     "title": "With a Song in My Heart",
