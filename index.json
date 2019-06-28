@@ -522,6 +522,12 @@
     "blues": true
   },
   {
+    "title": "Blue 7",
+    "composer": "Sonny Rollins",
+    "year": 1956,
+    "blues": true
+  },
+  {
     "title": "Blue and Sentimental",
     "composer": "Count Basie, Mack David, Jerry Livingston",
     "year": 1938
@@ -1996,7 +2002,7 @@
     "ballad": true
   },
   {
-    "title": "I'm an Old Cowhand",
+    "title": "I'm an Old Cowhand (from the Rio Grande)",
     "composer": "Johnny Mercer",
     "year": 1936
   },
@@ -4240,6 +4246,11 @@
     "title": "Strike Up the Band",
     "composer": "George Gershwin/Ira Gershwin",
     "year": 1927
+  },
+  {
+    "title": "Strode Rode",
+    "composer": "Sonny Rollins",
+    "year": 1956
   },
   {
     "title": "Strollin'",
