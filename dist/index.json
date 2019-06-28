@@ -3148,6 +3148,11 @@
     "ballad": true
   },
   {
+    "title": "My Reverie",
+    "composer": "Debussy/Larry Clinton",
+    "year": 1938
+  },
+  {
     "title": "My Romance",
     "composer": "Richard Rodgers/Lorenz Hart",
     "year": 1935,
@@ -3487,6 +3492,11 @@
     "composer": "Charlie Parker",
     "year": 1949,
     "rhythm": true
+  },
+  {
+    "title": "Paul's Pal",
+    "composer": "Sonny Rollins",
+    "year": 1956
   },
   {
     "title": "Peace",
