@@ -1240,6 +1240,12 @@
     "year": 1933
   },
   {
+    "title": "Everything Must Change",
+    "composer": "Bernard Ighner",
+    "year": 1974,
+    "ballad": true
+  },
+  {
     "title": "Everything's Coming Up Roses",
     "composer": "Jule Styne/Stephen Sondheim",
     "year": 1959
@@ -2154,6 +2160,12 @@
     "ballad": true
   },
   {
+    "title": "If You Go Away (Ne Me Quitte Pas)",
+    "composer": "Jacques Brel",
+    "year": 1959,
+    "ballad": true
+  },
+  {
     "title": "If You Never Come to Me",
     "composer": "Antônio Carlos Jobim/Vincius De Morales & Ray Gilbert",
     "year": 1963,
@@ -2858,7 +2870,8 @@
   {
     "title": "Maybe September",
     "composer": "Percy Faith/Jay Livingston & Ray Evans",
-    "year": 1965
+    "year": 1965,
+    "ballad": true
   },
   {
     "title": "Mean to Me",
@@ -3205,12 +3218,15 @@
   {
     "title": "Nature Boy",
     "composer": "Eden Ahbez",
-    "year": 1948
+    "year": 1948,
+    "latin": true,
+    "ballad": true
   },
   {
     "title": "Never Let Me Go",
     "composer": "Jay Livingston/Ray Evans",
-    "year": 1956
+    "year": 1956,
+    "ballad": true
   },
   {
     "title": "Nevertheless (I'm in Love with You)",
@@ -4332,6 +4348,11 @@
     "rhythm": true
   },
   {
+    "title": "Take Love Easy",
+    "composer": "Duke Ellington/John LaTouche",
+    "year": 1947
+  },
+  {
     "title": "Take the \"A\" Train",
     "composer": "Billy Strayhorn",
     "year": 1939
@@ -4852,6 +4873,12 @@
     "year": 1960
   },
   {
+    "title": "This is All I Ask",
+    "composer": "Gordon Jenkins",
+    "year": 1958,
+    "ballad": true
+  },
+  {
     "title": "This Is Always",
     "composer": "Harry Warren/Mack Gordon",
     "year": 1946,
@@ -5108,6 +5135,12 @@
     "title": "Wabash",
     "composer": "Cannonball Adderley",
     "year": 1959
+  },
+  {
+    "title": "Watch What Happens",
+    "composer": "Michel Legrand/Norman Gimbel",
+    "year": 1965,
+    "latin": true
   },
   {
     "title": "Wahoo",
