@@ -2160,12 +2160,6 @@
     "ballad": true
   },
   {
-    "title": "If You Go Away (Ne Me Quitte Pas)",
-    "composer": "Jacques Brel",
-    "year": 1959,
-    "ballad": true
-  },
-  {
     "title": "If You Never Come to Me",
     "composer": "Antônio Carlos Jobim/Vincius De Morales & Ray Gilbert",
     "year": 1963,
@@ -3220,6 +3214,12 @@
     "composer": "Eden Ahbez",
     "year": 1948,
     "latin": true,
+    "ballad": true
+  },
+  {
+    "title": "Ne Me Quitte Pas (If You Go Away)",
+    "composer": "Jacques Brel",
+    "year": 1959,
     "ballad": true
   },
   {
