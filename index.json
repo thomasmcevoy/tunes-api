@@ -1204,7 +1204,7 @@
     "year": 1951
   },
   {
-    "title": "Estate",
+    "title": "Estaté",
     "composer": "Bruno Martino/Bruno Brighetti",
     "year": 1960
   },
@@ -1588,6 +1588,12 @@
     "title": "Here's That Rainy Day",
     "composer": "Jimmy Van Heusen/Johnny Burke",
     "year": 1953
+  },
+  {
+    "title": "Here's to Life",
+    "composer": "Artie Butler & Phyllis Molinary",
+    "year": 1992,
+    "ballad": true
   },
   {
     "title": "Here's to My Lady",
@@ -5531,6 +5537,11 @@
     "composer": "Jay Gorney/Sidney Clare",
     "year": 1933,
     "ballad": true
+  },
+  {
+    "title": "You're Nearer",
+    "composer": "Richard Rodgers/Lorenz Hart",
+    "year": 1939
   },
   {
     "title": "You've Changed",
