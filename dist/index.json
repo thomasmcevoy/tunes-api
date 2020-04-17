@@ -21,7 +21,8 @@
     "composer": "Thad Jones/Alec Wilder",
     "year": 1969,
     "waltz": true,
-    "holiday": true
+    "holiday": true,
+    "ballad": true
   },
   {
     "title": "A Felicidade",
@@ -58,7 +59,8 @@
   {
     "title": "A Kiss to Build a Dream On",
     "composer": "Bert Kalmar, Harry Ruby/Oscar Hammerstein II",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "A Sleepin' Bee",
@@ -161,7 +163,8 @@
   {
     "title": "All or Nothing at All",
     "composer": "Arthur Altman/Jack Lawrence",
-    "year": 1939
+    "year": 1939,
+    "latin": true
   },
   {
     "title": "All the Things You Are",
@@ -210,12 +213,15 @@
   {
     "title": "Always",
     "composer": "Irving Berlin",
-    "year": 1925
+    "year": 1925,
+    "waltz": true,
+    "ballad": true
   },
   {
     "title": "Am I Blue?",
     "composer": "Harry Akst/Grant Clarke",
-    "year": 1929
+    "year": 1929,
+    "ballad": true
   },
   {
     "title": "An Affair To Remember",
@@ -247,7 +253,8 @@
   {
     "title": "Angelica",
     "composer": "Duke Ellington",
-    "year": 1965
+    "year": 1965,
+    "latin": true
   },
   {
     "title": "Angels We Have Heard on High",
@@ -289,7 +296,8 @@
   {
     "title": "As Time Goes By",
     "composer": "Herman Hupfeld",
-    "year": 1926
+    "year": 1926,
+    "ballad": true
   },
   {
     "title": "Ascension",
@@ -328,7 +336,8 @@
   {
     "title": "Autumn Nocturne",
     "composer": "Josef Myrow/Kim Gannon",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Autumn Serenade",
@@ -433,7 +442,8 @@
   {
     "title": "Bewitched, Bothered, and Bewildered",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "Big Butter and Egg Man",
@@ -468,12 +478,14 @@
   {
     "title": "Bish, Bash, Bosh",
     "composer": "Barry Harris",
-    "year": 1962
+    "year": 1962,
+    "minor": true
   },
   {
     "title": "Black and Blue",
     "composer": "Fats Waller/Andy Razaf & Harry Brooks",
-    "year": 1929
+    "year": 1929,
+    "ballad": true
   },
   {
     "title": "Black and Tan Fantasy",
@@ -636,7 +648,8 @@
   {
     "title": "Born to Be Blue",
     "composer": "Mel Torme & Robert Wells",
-    "year": 1946
+    "year": 1946,
+    "ballad": true
   },
   {
     "title": "Bouncing with Bud",
@@ -894,7 +907,8 @@
   {
     "title": "Count Your Blessings (Instead of Sheep)",
     "composer": "Irving Berlin",
-    "year": 1954
+    "year": 1954,
+    "ballad": true
   },
   {
     "title": "Crazeology",
@@ -905,7 +919,8 @@
   {
     "title": "Crazy He Calls Me",
     "composer": "Carl Sigman/Bob Russell",
-    "year": 1949
+    "year": 1949,
+    "ballad": true
   },
   {
     "title": "Crazy Rhythm",
@@ -915,7 +930,8 @@
   {
     "title": "Crepuscule with Nellie",
     "composer": "Thelonious Monk",
-    "year": 1957
+    "year": 1957,
+    "ballad": true
   },
   {
     "title": "Criss Cross",
@@ -975,7 +991,8 @@
   {
     "title": "Day By Day",
     "composer": "Alex Stordahl & Paul Weston/Sammy Cahn",
-    "year": 1945
+    "year": 1945,
+    "ballad": true
   },
   {
     "title": "Day Dream",
@@ -1094,7 +1111,8 @@
   {
     "title": "Do You Know What It Means To Miss New Orleans",
     "composer": "Louis Alter/Eddie De Lange",
-    "year": 1946
+    "year": 1946,
+    "ballad": true
   },
   {
     "title": "Dolphin Dance",
@@ -1121,7 +1139,8 @@
   {
     "title": "Don't Worry About Me",
     "composer": "Rube Bloom/Ted Koehler",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "Donna Lee",
@@ -1211,7 +1230,9 @@
   {
     "title": "Estaté",
     "composer": "Bruno Martino/Bruno Brighetti",
-    "year": 1960
+    "year": 1960,
+    "latin": true,
+    "ballad": true
   },
   {
     "title": "Ev'ry Time We Say Goodbye",
@@ -1237,12 +1258,14 @@
   {
     "title": "Everything Happens to Me",
     "composer": "Matt Dennis/Tom Adair",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Everything I Have Is Yours",
     "composer": "Burton Lane/Harold Adamson",
-    "year": 1933
+    "year": 1933,
+    "ballad": true
   },
   {
     "title": "Everything Must Change",
@@ -1410,7 +1433,8 @@
   {
     "title": "Gee Baby, Ain't I Good to You",
     "composer": "Don Redman/Andy Razaf",
-    "year": 1929
+    "year": 1929,
+    "ballad": true
   },
   {
     "title": "Georgia on My Mind",
@@ -1445,7 +1469,8 @@
   {
     "title": "Glad to Be Unhappy",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1936
+    "year": 1936,
+    "ballad": true
   },
   {
     "title": "Go Tell It on the Mountain",
@@ -1456,7 +1481,8 @@
   {
     "title": "God Bless the Child",
     "composer": "Billie Holiday & Arthur Herzog, Jr.",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "Gone with the Wind",
@@ -1538,7 +1564,8 @@
   {
     "title": "Haunted Heart",
     "composer": "Arthur Schwartz/Howard Dietz",
-    "year": 1948
+    "year": 1948,
+    "ballad": true
   },
   {
     "title": "Have You Met Miss Jones?",
@@ -1592,7 +1619,8 @@
   {
     "title": "Here's That Rainy Day",
     "composer": "Jimmy Van Heusen/Johnny Burke",
-    "year": 1953
+    "year": 1953,
+    "ballad": true
   },
   {
     "title": "Here's to Life",
@@ -1640,7 +1668,8 @@
   {
     "title": "How Are Things in Glocca Morra?",
     "composer": "Burton Lane/Yip Harburg",
-    "year": 1946
+    "year": 1946,
+    "ballad": true
   },
   {
     "title": "How Deep is the Ocean",
@@ -1704,7 +1733,8 @@
   {
     "title": "I Concentrate On You",
     "composer": "Cole Porter",
-    "year": 1940
+    "year": 1940,
+    "ballad": true
   },
   {
     "title": "I Could Have Danced All Night",
@@ -1786,7 +1816,8 @@
   {
     "title": "I Guess I'll Have to Change My Plan",
     "composer": "Arthur Schwartz/Howard Dietz",
-    "year": 1929
+    "year": 1929,
+    "ballad": true
   },
   {
     "title": "I Had the Craziest Dream",
@@ -1871,7 +1902,8 @@
   {
     "title": "I Remember Clifford",
     "composer": "Benny Golson",
-    "year": 1957
+    "year": 1957,
+    "ballad": true
   },
   {
     "title": "I Remember You",
@@ -1887,17 +1919,20 @@
   {
     "title": "I See Your Face Before Me",
     "composer": "Arthur Schwartz/Howard Dietz",
-    "year": 1937
+    "year": 1937,
+    "ballad": true
   },
   {
     "title": "I Should Care",
     "composer": "Alex Stordahl & Paul Weston/Sammy Cahn",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "I Surrender Dear",
     "composer": "Harry Barris/Gordon Clifford",
-    "year": 1931
+    "year": 1931,
+    "ballad": true
   },
   {
     "title": "I Think I'll Go Away",
@@ -1908,7 +1943,8 @@
   {
     "title": "I Thought About You",
     "composer": "Jimmy Van Heusen/Johnny Mercer",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "I Waited For You",
@@ -1934,13 +1970,15 @@
   {
     "title": "I Wish I Knew",
     "composer": "Harry Warren/Mack Gordon",
-    "year": 1945
+    "year": 1945,
+    "ballad": true
   },
   {
     "title": "I Wish You Love",
     "composer": "Charles Louis Trenet/Albert Askew Beach",
     "year": 1946,
-    "sinatra": true
+    "sinatra": true,
+    "ballad": true
   },
   {
     "title": "I Wished on the Moon",
@@ -2056,12 +2094,14 @@
   {
     "title": "I'm Old Fashioned",
     "composer": "Jerome Kern/Johnny Mercer",
-    "year": 1942
+    "year": 1942,
+    "ballad": true
   },
   {
     "title": "I'm Through With Love",
     "composer": "Gus Kahn, Matty Malneck, Fud Livingston",
-    "year": 1931
+    "year": 1931,
+    "ballad": true
   },
   {
     "title": "I've Found a New Baby",
@@ -2236,7 +2276,8 @@
   {
     "title": "In the Wee Small Hours of the Morning",
     "composer": "David A. Mann/Bob Hilliard",
-    "year": 1955
+    "year": 1955,
+    "ballad": true
   },
   {
     "title": "In Walked Bud",
@@ -2287,7 +2328,8 @@
   {
     "title": "Isn't It a Pity?",
     "composer": "George Gershwin/Ira Gershwin",
-    "year": 1933
+    "year": 1933,
+    "ballad": true
   },
   {
     "title": "Isn't It Romantic?",
@@ -2307,7 +2349,8 @@
   {
     "title": "It Could Happen to You",
     "composer": "Jimmy Van Heusen/Johnny Burke",
-    "year": 1944
+    "year": 1944,
+    "ballad": true
   },
   {
     "title": "It Don't Mean a Thing (If It Ain't Got That Swing)",
@@ -2317,7 +2360,8 @@
   {
     "title": "It Had to Be You",
     "composer": "Isham Jones/Gus Kahn",
-    "year": 1924
+    "year": 1924,
+    "ballad": true
   },
   {
     "title": "It Might As Well Be Spring",
@@ -2376,7 +2420,8 @@
   {
     "title": "It's the Talk of the Town",
     "composer": "Jerry Livingston/Al J. Neiburg & Marty Symes",
-    "year": 1933
+    "year": 1933,
+    "ballad": true
   },
   {
     "title": "It's You Or No One",
@@ -2449,7 +2494,8 @@
   {
     "title": "Just As Though You Were Here",
     "composer": "John Benson Brooks/Eddie DeLange",
-    "year": 1942
+    "year": 1942,
+    "ballad": true
   },
   {
     "title": "Just By Myself",
@@ -2513,12 +2559,14 @@
   {
     "title": "La Mesha",
     "composer": "Kenny Dorham",
-    "year": 1963
+    "year": 1963,
+    "ballad": true
   },
   {
     "title": "La Vie en Rose",
     "composer": "Edith Piaf",
-    "year": 1945
+    "year": 1945,
+    "ballad": true
   },
   {
     "title": "Lady Bird",
@@ -2546,7 +2594,8 @@
   {
     "title": "Laura",
     "composer": "David Raksin/Johnny Mercer",
-    "year": 1945
+    "year": 1945,
+    "ballad": true
   },
   {
     "title": "Laverne Walk",
@@ -2650,7 +2699,8 @@
   {
     "title": "Little Girl Blue",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1935
+    "year": 1935,
+    "ballad": true
   },
   {
     "title": "Little Melonae",
@@ -2721,7 +2771,8 @@
     "title": "Lotus Blossom",
     "composer": "Billy Strayhorn",
     "year": 1947,
-    "latin": true
+    "waltz": true,
+    "ballad": true
   },
   {
     "title": "Louise",
@@ -2736,7 +2787,8 @@
   {
     "title": "Love is a Many-Splendored Thing",
     "composer": "Sammy Fain/Paul Francis Webster",
-    "year": 1955
+    "year": 1955,
+    "ballad": true
   },
   {
     "title": "Love Is Here to Stay",
@@ -2832,7 +2884,8 @@
   {
     "title": "Make Someone Happy",
     "composer": "Jule Styne/Betty Comden & Adolph Green",
-    "year": 1960
+    "year": 1960,
+    "ballad": true
   },
   {
     "title": "Maiden Voyage",
@@ -2859,7 +2912,8 @@
   {
     "title": "Manhattan",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1925
+    "year": 1925,
+    "ballad": true
   },
   {
     "title": "Marmaduke",
@@ -2898,7 +2952,8 @@
   {
     "title": "Memories of You",
     "composer": "Eubie Blake/Andy Razaf",
-    "year": 1930
+    "year": 1930,
+    "ballad": true
   },
   {
     "title": "Memphis in June",
@@ -2984,7 +3039,8 @@
   {
     "title": "Mona Lisa",
     "composer": "Jay Livingston/Ray Evans",
-    "year": 1950
+    "year": 1950,
+    "ballad": true
   },
   {
     "title": "Monk's Dream",
@@ -3044,7 +3100,8 @@
   {
     "title": "More Than You Know",
     "composer": "Vincent Youmans/Billy Rose & Edward Eliscu",
-    "year": 1929
+    "year": 1929,
+    "ballad": true
   },
   {
     "title": "Morning Coffee",
@@ -3081,7 +3138,8 @@
   {
     "title": "Mutattra",
     "composer": "Barry Harris",
-    "year": 1960
+    "year": 1960,
+    "ballad": true
   },
   {
     "title": "My Baby Just Cares for Me",
@@ -3129,7 +3187,8 @@
   {
     "title": "My Ideal",
     "composer": "Richard A. Whiting & Newell Chase/Leo Robin",
-    "year": 1930
+    "year": 1930,
+    "ballad": true
   },
   {
     "title": "My Little Brown Book",
@@ -3196,7 +3255,8 @@
   {
     "title": "Naima",
     "composer": "John Coltrane",
-    "year": 1959
+    "year": 1959,
+    "ballad": true
   },
   {
     "title": "Namely You",
@@ -3433,7 +3493,8 @@
   {
     "title": "Once in a While",
     "composer": "Michael Edwards/Bud Green",
-    "year": 1937
+    "year": 1937,
+    "ballad": true
   },
   {
     "title": "One Foot in the Gutter",
@@ -3444,7 +3505,8 @@
     "title": "One for My Baby (and One More for the Road)",
     "composer": "Harold Arlen/Johnny Mercer",
     "year": 1943,
-    "sinatra": true
+    "sinatra": true,
+    "ballad": true
   },
   {
     "title": "One Morning in May",
@@ -3598,7 +3660,8 @@
   {
     "title": "Please Send Me Someone to Love",
     "composer": "Percy Mayfield",
-    "year": 1950
+    "year": 1950,
+    "ballad": true
   },
   {
     "title": "Poinciana",
@@ -3637,7 +3700,8 @@
   {
     "title": "Que Sera Sera",
     "composer": "Jay Livingston/Ray Evans",
-    "year": 1956
+    "year": 1956,
+    "waltz": true
   },
   {
     "title": "Quiet Sip",
@@ -3752,7 +3816,8 @@
   {
     "title": "Rouge",
     "composer": "Barry Harris",
-    "year": 1969
+    "year": 1969,
+    "ballad": true
   },
   {
     "title": "Round Midnight",
@@ -3858,7 +3923,8 @@
   {
     "title": "September Song",
     "composer": "Kurt Weill/Maxwell Anderson",
-    "year": 1938
+    "year": 1938,
+    "ballad": true
   },
   {
     "title": "Serenade to Sweden",
@@ -4408,7 +4474,9 @@
   {
     "title": "Tenderly",
     "composer": "Walter Gross/Jack Lawrence",
-    "year": 1946
+    "year": 1946,
+    "waltz": true,
+    "ballad": true
   },
   {
     "title": "Teo",
@@ -4517,7 +4585,8 @@
   {
     "title": "The End of a Love Affair",
     "composer": "Edward C. Redding",
-    "year": 1950
+    "year": 1950,
+    "ballad": true
   },
   {
     "title": "The Feeling of Jazz",
@@ -4633,7 +4702,8 @@
   {
     "title": "The Most Beautiful Girl in the World",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1935
+    "year": 1935,
+    "waltz": true
   },
   {
     "title": "The Natives are Restless Tonight",
@@ -4645,12 +4715,14 @@
   {
     "title": "The Nearness of You",
     "composer": "Hoagy Carmichael/Ned Washington",
-    "year": 1937
+    "year": 1937,
+    "ballad": true
   },
   {
     "title": "The Night Has a Thousand Eyes",
     "composer": "Jerry Brainin/Buddy Bernier",
-    "year": 1948
+    "year": 1948,
+    "latin": true
   },
   {
     "title": "The Night We Called It a Day",
@@ -4688,7 +4760,8 @@
   {
     "title": "The Second Time Around",
     "composer": "Jimmy Van Heusen/Sammy Cahn",
-    "year": 1960
+    "year": 1960,
+    "ballad": true
   },
   {
     "title": "The Shadow of Your Smile",
@@ -4829,7 +4902,8 @@
   {
     "title": "These Foolish Things",
     "composer": "Jack Strachey & Harry Link/Eric Maschwitz",
-    "year": 1936
+    "year": 1936,
+    "ballad": true
   },
   {
     "title": "They All Laughed",
@@ -4907,6 +4981,11 @@
     "ballad": true
   },
   {
+    "title": "This is the Moment",
+    "composer": "Frederick Hollander/Leo Rubin",
+    "year": 1948
+  },
+  {
     "title": "This Year's Kisses",
     "composer": "Irving Berlin",
     "year": 1937
@@ -4914,7 +4993,8 @@
   {
     "title": "This Time The Dream's On Me",
     "composer": "Harold Arlen/Johnny Mercer",
-    "year": 1941
+    "year": 1941,
+    "ballad": true
   },
   {
     "title": "Thou Swell",
@@ -4950,7 +5030,8 @@
   {
     "title": "Time After Time",
     "composer": "Jule Styne/Sammy Cahn",
-    "year": 1947
+    "year": 1947,
+    "ballad": true
   },
   {
     "title": "Time on My Hands",
@@ -5151,7 +5232,8 @@
     "title": "Watch What Happens",
     "composer": "Michel Legrand/Norman Gimbel",
     "year": 1965,
-    "latin": true
+    "latin": true,
+    "ballad": true
   },
   {
     "title": "Wahoo",
@@ -5197,7 +5279,8 @@
   {
     "title": "We'll Be Together Again",
     "composer": "Carl Fischer/Frankie Laine",
-    "year": 1945
+    "year": 1945,
+    "ballad": true
   },
   {
     "title": "Webb City",
@@ -5242,12 +5325,14 @@
   {
     "title": "What'll I Do?",
     "composer": "Irving Berlin",
-    "year": 1923
+    "year": 1923,
+    "waltz": true
   },
   {
     "title": "What's New?",
     "composer": "Bob Haggart/Johnny Burke",
-    "year": 1939
+    "year": 1939,
+    "ballad": true
   },
   {
     "title": "When I Fall In Love",
@@ -5292,7 +5377,8 @@
   {
     "title": "Where Or When",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1937
+    "year": 1937,
+    "ballad": true
   },
   {
     "title": "While My Lady Sleeps",
@@ -5318,7 +5404,8 @@
   {
     "title": "Who Can I Turn To (When Nobody Needs Me)?",
     "composer": "Leslie Bricusse & Anthony Newley",
-    "year": 1964
+    "year": 1964,
+    "ballad": true
   },
   {
     "title": "Who Cares?",
@@ -5343,7 +5430,8 @@
   {
     "title": "Why Was I Born?",
     "composer": "Jerome Kern/Oscar Hammerstein II",
-    "year": 1929
+    "year": 1929,
+    "ballad": true
   },
   {
     "title": "Wild is Love",
@@ -5453,7 +5541,8 @@
   {
     "title": "You Are Too Beautiful",
     "composer": "Richard Rodgers/Lorenz Hart",
-    "year": 1932
+    "year": 1932,
+    "ballad": true
   },
   {
     "title": "You Do Something To Me",
@@ -5492,7 +5581,8 @@
   {
     "title": "You Stepped Out of a Dream",
     "composer": "Nacio Herb Brown/Gus Kahn",
-    "year": 1940
+    "year": 1940,
+    "latin": true
   },
   {
     "title": "You Sweet and Fancy Lady",
